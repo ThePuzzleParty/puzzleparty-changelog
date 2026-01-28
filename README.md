@@ -2,7 +2,15 @@
 
 Track what's new in PuzzleParty! This changelog is automatically generated from our development activity.
 
-## 2026
+## [Development](development/README.md)
 
-- [January 2026](2026-01.md) - 206 updates
+Features and fixes in development (not yet released)
+
+**206 total updates**
+
+## [Production](production/README.md)
+
+Released features and fixes
+
+**177 total updates**
 
