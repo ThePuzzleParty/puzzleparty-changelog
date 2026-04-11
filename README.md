@@ -6,11 +6,11 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 Features and fixes in development (not yet released)
 
-**437 total updates**
+**441 total updates**
 
 ## [Production](production/README.md)
 
 Released features and fixes
 
-**246 total updates**
+**248 total updates**
 
