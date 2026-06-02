@@ -6,6 +6,7 @@ Released features and fixes
 
 ## 2026
 
+- [June 2026](2026-06.md) - 2 updates
 - [May 2026](2026-05.md) - 17 updates
 - [April 2026](2026-04.md) - 24 updates
 - [March 2026](2026-03.md) - 20 updates
