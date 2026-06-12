@@ -6,6 +6,14 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## June 12, 2026 — five LinkedIn games
+
+- Share results from the five new LinkedIn games — Mini Sudoku, Tango, Crossclimb, Pinpoint, and Zip. Each should parse, score, and land on scoreboards and stats like any other game.
+- Manual entry works for all five: time picker (with DNF) for the timed four, a 1-5 guess picker for Pinpoint.
+- Zip records backtracks; they break ties between equal times but never move the score itself.
+- "and flawless" shares count toward flawless stats — including Crossclimb, which it turns out has them.
+- Paste a mangled share like "Queens #650 | 1:590" and it should be politely declined, not scored as 1:59.
+
 ## June 11, 2026 — Queens time, Mini dates, stat trends
 
 - Tap a Queens result in party chat; the detail popup now shows the solve time instead of pretending you finished instantly.
