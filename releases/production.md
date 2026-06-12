@@ -5,3 +5,10 @@ What's new in each production release, newest first. Entries are added automatic
 [← Back to Main Index](../README.md)
 
 ---
+
+## June 11, 2026 — Queens, trends, fixes
+
+- Queens joins the party: share your LinkedIn result and race your friends on solve time. Tap a result in chat to see exactly how fast (or flawless) someone was.
+- Per-game stats now chart your guess and star trends, so your improvement is finally visible. Or undeniable.
+- Late-night Mini solves now land on the printed puzzle date, not whatever midnight says.
+- Assorted visual tidying on the Games tab.
