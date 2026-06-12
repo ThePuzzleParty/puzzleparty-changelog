@@ -6,6 +6,12 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## June 11, 2026 — Queens time, Mini dates, stat trends
+
+- Tap a Queens result in party chat; the detail popup now shows the solve time instead of pretending you finished instantly.
+- Open per-game stats for a guess game (Wordle) and a star game (Waffle); each should show a trend chart of your recent results.
+- Share a Mini Crossword result in the old text format; the puzzle date should match the date printed in the share, not whatever day your phone thinks it is.
+
 ## June 11, 2026 — Queens + visual fixes
 
 - Share a LinkedIn Queens result, or type one in by hand; it should score on time like the other LinkedIn games, flawless and DNF included.
