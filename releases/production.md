@@ -6,6 +6,12 @@ What's new in each production release, newest first. Entries are added automatic
 
 ---
 
+## June 12, 2026 — five LinkedIn games
+
+- Five new LinkedIn games join the party: Mini Sudoku, Tango, Crossclimb, Pinpoint, and Zip. Share your results or enter them by hand.
+- Zip counts your backtracks and uses them to settle ties between equal solve times. Flawless runs get their due in stats.
+- Queens now refuses to be fooled by mangled share text.
+
 ## June 11, 2026 — Queens, trends, fixes
 
 - Queens joins the party: share your LinkedIn result and race your friends on solve time. Tap a result in chat to see exactly how fast (or flawless) someone was.
