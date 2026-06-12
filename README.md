@@ -6,11 +6,13 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**June 11, 2026 — Queens time, Mini dates, stat trends**
+**June 12, 2026 — five LinkedIn games**
 
-- Tap a Queens result in party chat; the detail popup now shows the solve time instead of pretending you finished instantly.
-- Open per-game stats for a guess game (Wordle) and a star game (Waffle); each should show a trend chart of your recent results.
-- Share a Mini Crossword result in the old text format; the puzzle date should match the date printed in the share, not whatever day your phone thinks it is.
+- Share results from the five new LinkedIn games — Mini Sudoku, Tango, Crossclimb, Pinpoint, and Zip. Each should parse, score, and land on scoreboards and stats like any other game.
+- Manual entry works for all five: time picker (with DNF) for the timed four, a 1-5 guess picker for Pinpoint.
+- Zip records backtracks; they break ties between equal times but never move the score itself.
+- "and flawless" shares count toward flawless stats — including Crossclimb, which it turns out has them.
+- Paste a mangled share like "Queens #650 | 1:590" and it should be politely declined, not scored as 1:59.
 
 [All staging releases](releases/staging.md)
 
