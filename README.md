@@ -6,13 +6,11 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**June 12, 2026 — five LinkedIn games**
+**June 13, 2026 — LinkedIn share parsing**
 
-- Share results from the five new LinkedIn games — Mini Sudoku, Tango, Crossclimb, Pinpoint, and Zip. Each should parse, score, and land on scoreboards and stats like any other game.
-- Manual entry works for all five: time picker (with DNF) for the timed four, a 1-5 guess picker for Pinpoint.
-- Zip records backtracks; they break ties between equal times but never move the score itself.
-- "and flawless" shares count toward flawless stats — including Crossclimb, which it turns out has them.
-- Paste a mangled share like "Queens #650 | 1:590" and it should be politely declined, not scored as 1:59.
+- Share a Zip, Tango, Queens, or Pinpoint result straight from LinkedIn; it should finally parse and score instead of vanishing into the void.
+- Manually log a Pinpoint you didn't solve; it should save as a did-not-finish rather than bouncing back with an error.
+- Tap Play on the Home hero card; it should route you to the right place via the standard /home link.
 
 [All staging releases](releases/staging.md)
 
