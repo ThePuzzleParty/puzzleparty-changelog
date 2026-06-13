@@ -6,6 +6,12 @@ What's new in each production release, newest first. Entries are added automatic
 
 ---
 
+## June 13, 2026 — LinkedIn parsing + Home links
+
+- Sharing your Zip, Tango, Queens, or Pinpoint results from LinkedIn now actually registers — the share sheet and the app finally speak the same language.
+- The Home screen Play button reliably sends you to the right game.
+- Pinpoint manual entry no longer miscounts a puzzle you never solved.
+
 ## June 12, 2026 — five LinkedIn games
 
 - Five new LinkedIn games join the party: Mini Sudoku, Tango, Crossclimb, Pinpoint, and Zip. Share your results or enter them by hand.
