@@ -16,11 +16,11 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Production Release
 
-**June 12, 2026 — five LinkedIn games**
+**June 13, 2026 — LinkedIn parsing + Home links**
 
-- Five new LinkedIn games join the party: Mini Sudoku, Tango, Crossclimb, Pinpoint, and Zip. Share your results or enter them by hand.
-- Zip counts your backtracks and uses them to settle ties between equal solve times. Flawless runs get their due in stats.
-- Queens now refuses to be fooled by mangled share text.
+- Sharing your Zip, Tango, Queens, or Pinpoint results from LinkedIn now actually registers — the share sheet and the app finally speak the same language.
+- The Home screen Play button reliably sends you to the right game.
+- Pinpoint manual entry no longer miscounts a puzzle you never solved.
 
 [All production releases](releases/production.md)
 
