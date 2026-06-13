@@ -6,6 +6,12 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## June 13, 2026 — LinkedIn share parsing
+
+- Share a Zip, Tango, Queens, or Pinpoint result straight from LinkedIn; it should finally parse and score instead of vanishing into the void.
+- Manually log a Pinpoint you didn't solve; it should save as a did-not-finish rather than bouncing back with an error.
+- Tap Play on the Home hero card; it should route you to the right place via the standard /home link.
+
 ## June 12, 2026 — five LinkedIn games
 
 - Share results from the five new LinkedIn games — Mini Sudoku, Tango, Crossclimb, Pinpoint, and Zip. Each should parse, score, and land on scoreboards and stats like any other game.
