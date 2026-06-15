@@ -17,11 +17,12 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Production Release
 
-**June 13, 2026 — LinkedIn parsing + Home links**
+**June 15, 2026 — Wend/Patches + home fixes**
 
-- Sharing your Zip, Tango, Queens, or Pinpoint results from LinkedIn now actually registers — the share sheet and the app finally speak the same language.
-- The Home screen Play button reliably sends you to the right game.
-- Pinpoint manual entry no longer miscounts a puzzle you never solved.
+- Two new LinkedIn games join the lineup: Wend and Patches. Share away.
+- Zip scores now line up with everyone else's instead of marching to their own drum.
+- Change a party's games and the home screen keeps up, no relaunch required.
+- Your profile picture shows up as your face again, not your initials.
 
 [All production releases](releases/production.md)
 
@@ -35,5 +36,5 @@ Features and fixes in development (not yet released)
 
 Released features and fixes
 
-**322 total updates**
+**323 total updates**
 
