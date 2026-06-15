@@ -6,11 +6,12 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**June 13, 2026 — LinkedIn share parsing**
+**June 15, 2026 — Wend/Patches + home fixes**
 
-- Share a Zip, Tango, Queens, or Pinpoint result straight from LinkedIn; it should finally parse and score instead of vanishing into the void.
-- Manually log a Pinpoint you didn't solve; it should save as a did-not-finish rather than bouncing back with an error.
-- Tap Play on the Home hero card; it should route you to the right place via the standard /home link.
+- Share a Wend or Patches result (the LinkedIn newcomers); they should parse, score, and land on the board like the regulars.
+- Share a Zip result; its score should now agree with the backend instead of inventing its own math.
+- Add or remove a game from a party; the home hero should notice and refresh instead of clinging to the old lineup.
+- Your own avatar on the home bar and party sheets should show your photo, not fall back to initials.
 
 [All staging releases](releases/staging.md)
 
@@ -28,7 +29,7 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 Features and fixes in development (not yet released)
 
-**570 total updates**
+**571 total updates**
 
 ## [Production](production/README.md)
 
