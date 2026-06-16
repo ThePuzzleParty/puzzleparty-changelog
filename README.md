@@ -6,12 +6,10 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**June 15, 2026 — Wend/Patches + home fixes**
+**June 16, 2026 — NYT Pips**
 
-- Share a Wend or Patches result (the LinkedIn newcomers); they should parse, score, and land on the board like the regulars.
-- Share a Zip result; its score should now agree with the backend instead of inventing its own math.
-- Add or remove a game from a party; the home hero should notice and refresh instead of clinging to the old lineup.
-- Your own avatar on the home bar and party sheets should show your photo, not fall back to initials.
+- Share an NYT Pips result (Easy, Medium, or Hard); it should parse, land on the right difficulty, and score on the clock like the other timed games — quicker is better, with cookie credit where earned.
+- Assorted housekeeping; if you can see it, it's a bug.
 
 [All staging releases](releases/staging.md)
 
