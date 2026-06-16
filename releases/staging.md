@@ -6,6 +6,11 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## June 16, 2026 — NYT Pips
+
+- Share an NYT Pips result (Easy, Medium, or Hard); it should parse, land on the right difficulty, and score on the clock like the other timed games — quicker is better, with cookie credit where earned.
+- Assorted housekeeping; if you can see it, it's a bug.
+
 ## June 15, 2026 — Wend/Patches + home fixes
 
 - Share a Wend or Patches result (the LinkedIn newcomers); they should parse, score, and land on the board like the regulars.
