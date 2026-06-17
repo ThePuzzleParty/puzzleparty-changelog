@@ -6,6 +6,10 @@ What's new in each production release, newest first. Entries are added automatic
 
 ---
 
+## June 16, 2026 — NYT Pips
+
+- NYT Pips joins the lineup. Share your daily Pips result — Easy, Medium, or Hard — and it scores right alongside everything else, cookies and all.
+
 ## June 15, 2026 — Wend/Patches + home fixes
 
 - Two new LinkedIn games join the lineup: Wend and Patches. Share away.
