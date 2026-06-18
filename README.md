@@ -6,10 +6,12 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**June 16, 2026 — NYT Pips**
+**June 17, 2026 — game stats fixes**
 
-- Share an NYT Pips result (Easy, Medium, or Hard); it should parse, land on the right difficulty, and score on the clock like the other timed games — quicker is better, with cookie credit where earned.
-- Assorted housekeeping; if you can see it, it's a bug.
+- Open a Waffle, Number Waffle, or Stackdown stats screen — the star distribution and history are back instead of a blank grey void, now with a "Failed" row for the ones that got away.
+- Stackdown stats gain a solve-time distribution chart beneath the stars.
+- Strands stats with no hints used should show a tidy empty-state row instead of nothing at all.
+- Dialed Daily's average score now reads on its native 0–50 scale, not a mystery percentage.
 
 [All staging releases](releases/staging.md)
 
@@ -25,11 +27,11 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 Features and fixes in development (not yet released)
 
-**580 total updates**
+**590 total updates**
 
 ## [Production](production/README.md)
 
 Released features and fixes
 
-**332 total updates**
+**335 total updates**
 
