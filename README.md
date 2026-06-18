@@ -17,9 +17,12 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Production Release
 
-**June 16, 2026 — NYT Pips**
+**June 17, 2026 — game stats fixes**
 
-- NYT Pips joins the lineup. Share your daily Pips result — Easy, Medium, or Hard — and it scores right alongside everything else, cookies and all.
+- The Waffle, Number Waffle, and Stackdown stats screens are back from the blank-grey void — star breakdown, history, and a count of the ones you didn't finish.
+- Stackdown now charts your solve times alongside the stars.
+- Strands stats no longer go blank when you've never needed a hint.
+- Dialed Daily shows your average on the real 0–50 scale, not a baffling percentage.
 
 [All production releases](releases/production.md)
 
