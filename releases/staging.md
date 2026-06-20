@@ -6,6 +6,11 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## June 20, 2026 — Word Search
+
+- Solve the Daily Mini at wordsearch.com (or the bigger Daily Max at /max), share the result, and it should land as a timed game under a new "Word Search" family, scored by how fast you finished.
+- Add a Word Search by hand from manual entry; the minutes:seconds picker and the give-up (DNF) toggle should both behave.
+
 ## June 20, 2026 — Help guide + Stats polish
 
 - Tap your avatar: Help and Support are now separate items. Help opens a multilevel guide — pick a topic, drill in for answers; Support is just ticket stuff.
