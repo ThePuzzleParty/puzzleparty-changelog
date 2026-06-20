@@ -15,12 +15,12 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Production Release
 
-**June 17, 2026 — game stats fixes**
+**June 20, 2026 — Word Search + Help/Stats**
 
-- The Waffle, Number Waffle, and Stackdown stats screens are back from the blank-grey void — star breakdown, history, and a count of the ones you didn't finish.
-- Stackdown now charts your solve times alongside the stars.
-- Strands stats no longer go blank when you've never needed a hint.
-- Dialed Daily shows your average on the real 0–50 scale, not a baffling percentage.
+- Word Search arrives: solve the Daily Mini or the bigger Daily Max, share your time, and race the leaderboard.
+- Help and Support now have their own spots under your avatar, with a browsable Help guide.
+- Stats solve-time charts read in minutes and seconds instead of a wall of raw seconds.
+- Your Stats Games tab sorts by what you actually play and tucks away the ones you don't.
 
 [All production releases](releases/production.md)
 
