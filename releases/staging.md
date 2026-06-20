@@ -6,6 +6,12 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## June 20, 2026 — Help guide + Stats polish
+
+- Tap your avatar: Help and Support are now separate items. Help opens a multilevel guide — pick a topic, drill in for answers; Support is just ticket stuff.
+- Open a game's solve-time histogram in Stats; bucket labels should read as mm:ss, not a wall of raw seconds.
+- Check the Stats Games tab: games now sort by how often you've played them, and ones you've never touched collapse out of the way.
+
 ## June 17, 2026 — game stats fixes
 
 - Open a Waffle, Number Waffle, or Stackdown stats screen — the star distribution and history are back instead of a blank grey void, now with a "Failed" row for the ones that got away.
