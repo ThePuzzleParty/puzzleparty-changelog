@@ -6,6 +6,13 @@ What's new in each production release, newest first. Entries are added automatic
 
 ---
 
+## June 20, 2026 — Word Search + Help/Stats
+
+- Word Search arrives: solve the Daily Mini or the bigger Daily Max, share your time, and race the leaderboard.
+- Help and Support now have their own spots under your avatar, with a browsable Help guide.
+- Stats solve-time charts read in minutes and seconds instead of a wall of raw seconds.
+- Your Stats Games tab sorts by what you actually play and tucks away the ones you don't.
+
 ## June 17, 2026 — game stats fixes
 
 - The Waffle, Number Waffle, and Stackdown stats screens are back from the blank-grey void — star breakdown, history, and a count of the ones you didn't finish.
