@@ -6,11 +6,10 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**June 20, 2026 — Help guide + Stats polish**
+**June 20, 2026 — Word Search**
 
-- Tap your avatar: Help and Support are now separate items. Help opens a multilevel guide — pick a topic, drill in for answers; Support is just ticket stuff.
-- Open a game's solve-time histogram in Stats; bucket labels should read as mm:ss, not a wall of raw seconds.
-- Check the Stats Games tab: games now sort by how often you've played them, and ones you've never touched collapse out of the way.
+- Solve the Daily Mini at wordsearch.com (or the bigger Daily Max at /max), share the result, and it should land as a timed game under a new "Word Search" family, scored by how fast you finished.
+- Add a Word Search by hand from manual entry; the minutes:seconds picker and the give-up (DNF) toggle should both behave.
 
 [All staging releases](releases/staging.md)
 
