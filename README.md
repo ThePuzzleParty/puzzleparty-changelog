@@ -15,12 +15,10 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Production Release
 
-**June 20, 2026 — Word Search + Help/Stats**
+**June 21, 2026 — Failed results, recognized**
 
-- Word Search arrives: solve the Daily Mini or the bigger Daily Max, share your time, and race the leaderboard.
-- Help and Support now have their own spots under your avatar, with a browsable Help guide.
-- Stats solve-time charts read in minutes and seconds instead of a wall of raw seconds.
-- Your Stats Games tab sorts by what you actually play and tucks away the ones you don't.
+- A failed Pinpoint now counts. Paste the "X/5" share and it records as a miss instead of getting turned away at the door.
+- Owning up to a timed LinkedIn game you didn't finish (Queens, Zip, Tango, and company) now shows as a Failed tally in your stats, instead of being politely forgotten.
 
 [All production releases](releases/production.md)
 
