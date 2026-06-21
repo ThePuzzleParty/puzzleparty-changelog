@@ -6,6 +6,11 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## June 21, 2026 — Failed results, recognized
+
+- Paste a Pinpoint loss (the five-thinking-faces "X/5" share); it should record as a failed attempt instead of greeting you with "Unrecognized Format."
+- Mark a timed LinkedIn game (Queens, Zip, Tango, and friends) as "didn't solve it" via manual entry; the miss should now show up as a "Failed" row in that game's time stats instead of quietly disappearing.
+
 ## June 20, 2026 — Word Search
 
 - Solve the Daily Mini at wordsearch.com (or the bigger Daily Max at /max), share the result, and it should land as a timed game under a new "Word Search" family, scored by how fast you finished.
