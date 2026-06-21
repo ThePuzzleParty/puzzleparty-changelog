@@ -6,6 +6,11 @@ What's new in each production release, newest first. Entries are added automatic
 
 ---
 
+## June 21, 2026 — Failed results, recognized
+
+- A failed Pinpoint now counts. Paste the "X/5" share and it records as a miss instead of getting turned away at the door.
+- Owning up to a timed LinkedIn game you didn't finish (Queens, Zip, Tango, and company) now shows as a Failed tally in your stats, instead of being politely forgotten.
+
 ## June 20, 2026 — Word Search + Help/Stats
 
 - Word Search arrives: solve the Daily Mini or the bigger Daily Max, share your time, and race the leaderboard.
