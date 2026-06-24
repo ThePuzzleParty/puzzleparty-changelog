@@ -6,10 +6,14 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**June 21, 2026 — Failed results, recognized**
+**June 24, 2026 — Your Games + per-game standings**
 
-- Paste a Pinpoint loss (the five-thinking-faces "X/5" share); it should record as a failed attempt instead of greeting you with "Unrecognized Format."
-- Mark a timed LinkedIn game (Queens, Zip, Tango, and friends) as "didn't solve it" via manual entry; the miss should now show up as a "Failed" row in that game's time stats instead of quietly disappearing.
+- Open the home hero dropdown: games you've played lately now appear under "Your Games," separate from your party games. Nothing played yet? You get a nudge toward the Games tab instead.
+- On a party scoreboard, use the new game-selector dropdown to switch from "Overall" to a single game; the list re-ranks by that game and defaults to an All-time view.
+- Members with no plays sit in a muted "Hasn't played" footer; if nobody's played it, you get an empty state instead of a blank table.
+- Tap a member in a per-game standings list to open the head-to-head: your record, shared days, and a day-by-day who-won breakdown.
+- Tap a player's per-game row in the detail sheet; it should jump straight to that game's standings.
+- Assorted housekeeping; if you can see it, it's a bug.
 
 [All staging releases](releases/staging.md)
 
