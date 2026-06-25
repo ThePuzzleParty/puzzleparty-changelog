@@ -6,6 +6,12 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## June 25, 2026 — People surface
+
+- On the Home tab, tap the new "People" toggle beside "Your Parties": you should get a list of folks you share a party with, each tagged with what they last played and when.
+- Tap a person to open "You vs [Name]": the games you both play, with your win-loss record per game. Tap a game to drill into the day-by-day head-to-head.
+- Someone you've never overlapped with on a puzzle still appears, just with nothing to compare yet. That's expected, not a bug.
+
 ## June 24, 2026 — Your Games + per-game standings
 
 - Open the home hero dropdown: games you've played lately now appear under "Your Games," separate from your party games. Nothing played yet? You get a nudge toward the Games tab instead.
