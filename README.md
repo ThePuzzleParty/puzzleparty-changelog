@@ -6,14 +6,11 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**June 24, 2026 — Your Games + per-game standings**
+**June 25, 2026 — People surface**
 
-- Open the home hero dropdown: games you've played lately now appear under "Your Games," separate from your party games. Nothing played yet? You get a nudge toward the Games tab instead.
-- On a party scoreboard, use the new game-selector dropdown to switch from "Overall" to a single game; the list re-ranks by that game and defaults to an All-time view.
-- Members with no plays sit in a muted "Hasn't played" footer; if nobody's played it, you get an empty state instead of a blank table.
-- Tap a member in a per-game standings list to open the head-to-head: your record, shared days, and a day-by-day who-won breakdown.
-- Tap a player's per-game row in the detail sheet; it should jump straight to that game's standings.
-- Assorted housekeeping; if you can see it, it's a bug.
+- On the Home tab, tap the new "People" toggle beside "Your Parties": you should get a list of folks you share a party with, each tagged with what they last played and when.
+- Tap a person to open "You vs [Name]": the games you both play, with your win-loss record per game. Tap a game to drill into the day-by-day head-to-head.
+- Someone you've never overlapped with on a puzzle still appears, just with nothing to compare yet. That's expected, not a bug.
 
 [All staging releases](releases/staging.md)
 
