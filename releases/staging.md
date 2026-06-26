@@ -6,6 +6,14 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## June 26, 2026 — Direct Messages + People tab
+
+- People graduates to its own bottom tab: your active-party co-members, searchable by name, sorted by most recent chatter.
+- Tap someone for a "You vs them" comparison, then hit Message to open a 1:1 chat — send, delete, and watch the typing dots.
+- Mute a chat from its overflow to silence its notifications (it still racks up unread); block or report from the person screen or the chat menu.
+- Blocking is silent and quietly drops the person from People; review and undo the fallout under Settings → Blocked Users.
+- Share a Crossclimb result copied straight from the app (newline format, no pipes); it should now parse instead of shrugging.
+
 ## June 25, 2026 — People surface
 
 - On the Home tab, tap the new "People" toggle beside "Your Parties": you should get a list of folks you share a party with, each tagged with what they last played and when.
