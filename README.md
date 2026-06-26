@@ -6,11 +6,13 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**June 25, 2026 — People surface**
+**June 26, 2026 — Direct Messages + People tab**
 
-- On the Home tab, tap the new "People" toggle beside "Your Parties": you should get a list of folks you share a party with, each tagged with what they last played and when.
-- Tap a person to open "You vs [Name]": the games you both play, with your win-loss record per game. Tap a game to drill into the day-by-day head-to-head.
-- Someone you've never overlapped with on a puzzle still appears, just with nothing to compare yet. That's expected, not a bug.
+- People graduates to its own bottom tab: your active-party co-members, searchable by name, sorted by most recent chatter.
+- Tap someone for a "You vs them" comparison, then hit Message to open a 1:1 chat — send, delete, and watch the typing dots.
+- Mute a chat from its overflow to silence its notifications (it still racks up unread); block or report from the person screen or the chat menu.
+- Blocking is silent and quietly drops the person from People; review and undo the fallout under Settings → Blocked Users.
+- Share a Crossclimb result copied straight from the app (newline format, no pipes); it should now parse instead of shrugging.
 
 [All staging releases](releases/staging.md)
 
