@@ -6,13 +6,11 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**June 26, 2026 — Direct Messages + People tab**
+**June 26, 2026 — Direct Messages: push deep-link**
 
-- People graduates to its own bottom tab: your active-party co-members, searchable by name, sorted by most recent chatter.
-- Tap someone for a "You vs them" comparison, then hit Message to open a 1:1 chat — send, delete, and watch the typing dots.
-- Mute a chat from its overflow to silence its notifications (it still racks up unread); block or report from the person screen or the chat menu.
-- Blocking is silent and quietly drops the person from People; review and undo the fallout under Settings → Blocked Users.
-- Share a Crossclimb result copied straight from the app (newline format, no pipes); it should now parse instead of shrugging.
+- Tap a direct-message push notification; it should drop you straight into that conversation instead of the home screen.
+- Tap a DM notification for a thread you already have open; it should stay put rather than stacking a second copy.
+- If the conversation has since been blocked or deleted, tapping its notification should land you on home with a brief "couldn't open" note — not a crash or a blank screen.
 
 [All staging releases](releases/staging.md)
 
