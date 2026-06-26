@@ -6,6 +6,12 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## June 26, 2026 — Direct Messages: push deep-link
+
+- Tap a direct-message push notification; it should drop you straight into that conversation instead of the home screen.
+- Tap a DM notification for a thread you already have open; it should stay put rather than stacking a second copy.
+- If the conversation has since been blocked or deleted, tapping its notification should land you on home with a brief "couldn't open" note — not a crash or a blank screen.
+
 ## June 26, 2026 — Direct Messages + People tab
 
 - People graduates to its own bottom tab: your active-party co-members, searchable by name, sorted by most recent chatter.
