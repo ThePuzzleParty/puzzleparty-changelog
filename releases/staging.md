@@ -6,6 +6,13 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## June 27, 2026 — People tab & feed
+
+- People tab: tap someone's name to drop straight into a DM. Head-to-head now lives behind the scoreboard icon on each row.
+- Party feed: tap anyone's avatar (yours included) to open their profile.
+- Bottom nav is reordered to Home, People, Games, Store. The People tab grows a live unread badge that clears once you read the thread.
+- Standings and head-to-head now show the actual game result instead of a percentage.
+
 ## June 26, 2026 — Direct Messages: push deep-link
 
 - Tap a direct-message push notification; it should drop you straight into that conversation instead of the home screen.
