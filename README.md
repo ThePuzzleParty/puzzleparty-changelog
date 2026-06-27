@@ -6,11 +6,12 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**June 26, 2026 — Direct Messages: push deep-link**
+**June 27, 2026 — People tab & feed**
 
-- Tap a direct-message push notification; it should drop you straight into that conversation instead of the home screen.
-- Tap a DM notification for a thread you already have open; it should stay put rather than stacking a second copy.
-- If the conversation has since been blocked or deleted, tapping its notification should land you on home with a brief "couldn't open" note — not a crash or a blank screen.
+- People tab: tap someone's name to drop straight into a DM. Head-to-head now lives behind the scoreboard icon on each row.
+- Party feed: tap anyone's avatar (yours included) to open their profile.
+- Bottom nav is reordered to Home, People, Games, Store. The People tab grows a live unread badge that clears once you read the thread.
+- Standings and head-to-head now show the actual game result instead of a percentage.
 
 [All staging releases](releases/staging.md)
 
