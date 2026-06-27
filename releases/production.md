@@ -6,6 +6,13 @@ What's new in each production release, newest first. Entries are added automatic
 
 ---
 
+## June 27, 2026 — Direct Messages + People
+
+- Direct messages are here: start a 1:1 chat from the new People tab, mute or block anyone tiresome, and tap a message notification to jump straight to the thread.
+- People tab: tap a name to message, or the scoreboard icon for your head-to-head record.
+- Browse your game history, per-game standings, and head-to-head matchups, now with real results instead of percentages.
+- Crossclimb shares in the newer format now parse cleanly.
+
 ## June 21, 2026 — Failed results, recognized
 
 - A failed Pinpoint now counts. Paste the "X/5" share and it records as a miss instead of getting turned away at the door.
