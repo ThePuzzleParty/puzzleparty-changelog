@@ -6,12 +6,13 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**June 27, 2026 — People tab & feed**
+**June 30, 2026 — home hero + polish**
 
-- People tab: tap someone's name to drop straight into a DM. Head-to-head now lives behind the scoreboard icon on each row.
-- Party feed: tap anyone's avatar (yours included) to open their profile.
-- Bottom nav is reordered to Home, People, Games, Store. The People tab grows a live unread badge that clears once you read the thread.
-- Standings and head-to-head now show the actual game result instead of a percentage.
+- Your home hero now counts only party puzzles — the big number, flame streak, and end-of-day confetti ignore games played outside your parties. Those show as violet pills at the tail of the progress bar; tap them for a quick explainer.
+- Open your Pips stats; the time-based histogram should now appear, Failed row and all.
+- Glance at a party chat header for Cameron's new Scoreboard glyph.
+- Spoilers now wear a softer lavender mask instead of the old loud grape.
+- Settings has a new Direct Messages notification toggle; flip it and confirm DM pushes fall in line.
 
 [All staging releases](releases/staging.md)
 
