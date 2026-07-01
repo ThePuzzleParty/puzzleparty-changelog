@@ -15,12 +15,13 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Production Release
 
-**June 27, 2026 — Direct Messages + People**
+**June 30, 2026 — home hero + streaks**
 
-- Direct messages are here: start a 1:1 chat from the new People tab, mute or block anyone tiresome, and tap a message notification to jump straight to the thread.
-- People tab: tap a name to message, or the scoreboard icon for your head-to-head record.
-- Browse your game history, per-game standings, and head-to-head matchups, now with real results instead of percentages.
-- Crossclimb shares in the newer format now parse cleanly.
+- Your home hero now counts only party puzzles; outside games ride along as violet pills at the tail of the bar.
+- Tap any streak flame for a plain note on what it counts, and see your per-game streak when you open a feed result.
+- Pips stats gain a time histogram, Failed row included.
+- New Direct Messages notification toggle in settings.
+- Spoilers wear a calmer lavender; party chat headers gain a Scoreboard glyph.
 
 [All production releases](releases/production.md)
 
