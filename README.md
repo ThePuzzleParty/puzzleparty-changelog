@@ -6,13 +6,10 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**June 30, 2026 — home hero + polish**
+**June 30, 2026 — streak visibility**
 
-- Your home hero now counts only party puzzles — the big number, flame streak, and end-of-day confetti ignore games played outside your parties. Those show as violet pills at the tail of the progress bar; tap them for a quick explainer.
-- Open your Pips stats; the time-based histogram should now appear, Failed row and all.
-- Glance at a party chat header for Cameron's new Scoreboard glyph.
-- Spoilers now wear a softer lavender mask instead of the old loud grape.
-- Settings has a new Direct Messages notification toggle; flip it and confirm DM pushes fall in line.
+- Tap the streak flame on a party card (also the home-screen flame and a party's header chip); each opens a modal that now spells out exactly what the streak is counting.
+- Tap a puzzle entry in the party feed; if you're on a run for that game, the detail popup now shows the streak badge too.
 
 [All staging releases](releases/staging.md)
 
