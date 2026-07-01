@@ -6,6 +6,11 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## June 30, 2026 — streak visibility
+
+- Tap the streak flame on a party card (also the home-screen flame and a party's header chip); each opens a modal that now spells out exactly what the streak is counting.
+- Tap a puzzle entry in the party feed; if you're on a run for that game, the detail popup now shows the streak badge too.
+
 ## June 30, 2026 — home hero + polish
 
 - Your home hero now counts only party puzzles — the big number, flame streak, and end-of-day confetti ignore games played outside your parties. Those show as violet pills at the tail of the progress bar; tap them for a quick explainer.
