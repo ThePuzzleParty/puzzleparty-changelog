@@ -16,13 +16,10 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Production Release
 
-**June 30, 2026 — home hero + streaks**
+**July 2, 2026 — spoiler threads + People refresh**
 
-- Your home hero now counts only party puzzles; outside games ride along as violet pills at the tail of the bar.
-- Tap any streak flame for a plain note on what it counts, and see your per-game streak when you open a feed result.
-- Pips stats gain a time histogram, Failed row included.
-- New Direct Messages notification toggle in settings.
-- Spoilers wear a calmer lavender; party chat headers gain a Scoreboard glyph.
+- Spoiler comments in party chat now say which puzzle they're about, and tapping today's opens a tidy Game Activity view with everyone's results and chatter for that game.
+- The People tab refreshes when you open it or return from a chat, so unread counts stop clinging to the past.
 
 [All production releases](releases/production.md)
 
