@@ -6,6 +6,12 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## July 2, 2026 — spoiler threads + People refresh
+
+- Turn spoilers on in a party, then reveal a spoiler comment (solve the puzzle, or flip spoiler mode off). It should now label which puzzle it's about — "Wordle · Today" — instead of leaving you guessing.
+- Tap that badge on today's spoiler; you land on a "[Game] Activity" screen with the day's entries and spoiler talk for that game, in order. Prior-day badges are for looking, not touching.
+- Open People, dive into a DM, then come back. The list refreshes on its own instead of clinging to stale unread counts.
+
 ## June 30, 2026 — streak visibility
 
 - Tap the streak flame on a party card (also the home-screen flame and a party's header chip); each opens a modal that now spells out exactly what the streak is counting.
