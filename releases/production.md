@@ -6,6 +6,11 @@ What's new in each production release, newest first. Entries are added automatic
 
 ---
 
+## July 2, 2026 — spoiler threads + People refresh
+
+- Spoiler comments in party chat now say which puzzle they're about, and tapping today's opens a tidy Game Activity view with everyone's results and chatter for that game.
+- The People tab refreshes when you open it or return from a chat, so unread counts stop clinging to the past.
+
 ## June 30, 2026 — home hero + streaks
 
 - Your home hero now counts only party puzzles; outside games ride along as violet pills at the tail of the bar.
