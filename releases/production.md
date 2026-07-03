@@ -6,6 +6,11 @@ What's new in each production release, newest first. Entries are added automatic
 
 ---
 
+## July 2, 2026 — July 4th Easter egg
+
+- Something festive may turn up on the Fourth of July. We won't spoil it.
+- Head-to-head on timed games now settles by your actual time, so genuinely faster runs stop landing as ties.
+
 ## July 2, 2026 — spoiler threads + People refresh
 
 - Spoiler comments in party chat now say which puzzle they're about, and tapping today's opens a tidy Game Activity view with everyone's results and chatter for that game.
