@@ -6,11 +6,10 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**July 2, 2026 — spoiler threads + People refresh**
+**July 2, 2026 — July 4th Easter egg**
 
-- Turn spoilers on in a party, then reveal a spoiler comment (solve the puzzle, or flip spoiler mode off). It should now label which puzzle it's about — "Wordle · Today" — instead of leaving you guessing.
-- Tap that badge on today's spoiler; you land on a "[Game] Activity" screen with the day's entries and spoiler talk for that game, in order. Prior-day badges are for looking, not touching.
-- Open People, dive into a DM, then come back. The list refreshes on its own instead of clinging to stale unread counts.
+- On July 4th — judged by your profile timezone, not the device clock — the home screen should serve a one-time Independence Day celebration and tint the hero card. Dismiss it once and it stays gone for the rest of the year.
+- Any other day: no fireworks, no accent, business as usual.
 
 [All staging releases](releases/staging.md)
 
@@ -27,11 +26,11 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 Features and fixes in development (not yet released)
 
-**614 total updates**
+**617 total updates**
 
 ## [Production](production/README.md)
 
 Released features and fixes
 
-**353 total updates**
+**354 total updates**
 
