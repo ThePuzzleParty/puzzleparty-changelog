@@ -6,6 +6,11 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## July 2, 2026 — July 4th Easter egg
+
+- On July 4th — judged by your profile timezone, not the device clock — the home screen should serve a one-time Independence Day celebration and tint the hero card. Dismiss it once and it stays gone for the rest of the year.
+- Any other day: no fireworks, no accent, business as usual.
+
 ## July 2, 2026 — spoiler threads + People refresh
 
 - Turn spoilers on in a party, then reveal a spoiler comment (solve the puzzle, or flip spoiler mode off). It should now label which puzzle it's about — "Wordle · Today" — instead of leaving you guessing.
