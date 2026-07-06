@@ -6,10 +6,12 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**July 2, 2026 — July 4th Easter egg**
+**July 6, 2026 — party icons + head-to-head polish**
 
-- On July 4th — judged by your profile timezone, not the device clock — the home screen should serve a one-time Independence Day celebration and tint the hero card. Dismiss it once and it stays gone for the rest of the year.
-- Any other day: no fireworks, no accent, business as usual.
+- Open a party's settings and pick an icon: it should tint to the party's theme colour and show up on the party card and header, not just in the picker.
+- Pull up a head-to-head: the game name should sit centered at the top, and the day's winner gets a green highlight instead of a polite shrug.
+- Visit a person's comparison screen; expect an overall win/loss record summary with color-coded labels.
+- "Spoiler Mode" is now "Hide spoilers" everywhere it showed up (settings, FAQ, landing). Same switch, calmer name.
 
 [All staging releases](releases/staging.md)
 
@@ -26,7 +28,7 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 Features and fixes in development (not yet released)
 
-**617 total updates**
+**618 total updates**
 
 ## [Production](production/README.md)
 
