@@ -6,6 +6,13 @@ What's new in each production release, newest first. Entries are added automatic
 
 ---
 
+## July 6, 2026 — party icons + head-to-head polish
+
+- Give your party a face: pick from 48 icons, each tinted to your party's colour.
+- Head-to-heads now crown the day's winner in green, with the game name up top where you can actually find it.
+- Comparing yourself with someone shows an overall win-loss record, colour-coded so you can see who's ahead at a glance.
+- "Spoiler Mode" is now "Hide spoilers" — same setting, plainer name.
+
 ## July 2, 2026 — July 4th Easter egg
 
 - Something festive may turn up on the Fourth of July. We won't spoil it.
