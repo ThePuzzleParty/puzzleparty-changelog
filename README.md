@@ -17,10 +17,12 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Production Release
 
-**July 2, 2026 — July 4th Easter egg**
+**July 6, 2026 — party icons + head-to-head polish**
 
-- Something festive may turn up on the Fourth of July. We won't spoil it.
-- Head-to-head on timed games now settles by your actual time, so genuinely faster runs stop landing as ties.
+- Give your party a face: pick from 48 icons, each tinted to your party's colour.
+- Head-to-heads now crown the day's winner in green, with the game name up top where you can actually find it.
+- Comparing yourself with someone shows an overall win-loss record, colour-coded so you can see who's ahead at a glance.
+- "Spoiler Mode" is now "Hide spoilers" — same setting, plainer name.
 
 [All production releases](releases/production.md)
 
@@ -28,11 +30,11 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 Features and fixes in development (not yet released)
 
-**618 total updates**
+**620 total updates**
 
 ## [Production](production/README.md)
 
 Released features and fixes
 
-**354 total updates**
+**356 total updates**
 
