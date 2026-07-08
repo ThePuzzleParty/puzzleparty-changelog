@@ -6,6 +6,12 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## July 7, 2026 — avatars, sparkle, party looks
+
+- Open Avatar settings and pick one of the new default glyphs plus a frame; the four free frames equip, while the two Pioneer ones read "Pioneer exclusive" and stay locked (no Store detour) unless you're a Pioneer.
+- Glance at the Home wordmark — it should pick up a small daily sparkle and otherwise behave itself.
+- Give a single party your own personal icon/theme without changing how it looks for everyone else.
+
 ## July 6, 2026 — party icons + head-to-head polish
 
 - Open a party's settings and pick an icon: it should tint to the party's theme colour and show up on the party card and header, not just in the picker.
