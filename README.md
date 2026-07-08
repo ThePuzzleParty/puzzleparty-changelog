@@ -16,12 +16,11 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Production Release
 
-**July 6, 2026 — party icons + head-to-head polish**
+**July 7, 2026 — avatars, sparkle, party looks**
 
-- Give your party a face: pick from 48 icons, each tinted to your party's colour.
-- Head-to-heads now crown the day's winner in green, with the game name up top where you can actually find it.
-- Comparing yourself with someone shows an overall win-loss record, colour-coded so you can see who's ahead at a glance.
-- "Spoiler Mode" is now "Hide spoilers" — same setting, plainer name.
+- New avatars: pick a look from the default pack and ring it with a decorative frame. The Pioneer frames are reserved for our founding members.
+- The Home wordmark now catches a little sparkle each day.
+- Give any party your own icon and colour theme, just for you, without changing what everyone else sees.
 
 [All production releases](releases/production.md)
 
@@ -35,5 +34,5 @@ Features and fixes in development (not yet released)
 
 Released features and fixes
 
-**356 total updates**
+**358 total updates**
 
