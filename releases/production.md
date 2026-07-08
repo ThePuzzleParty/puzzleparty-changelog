@@ -6,6 +6,12 @@ What's new in each production release, newest first. Entries are added automatic
 
 ---
 
+## July 7, 2026 — avatars, sparkle, party looks
+
+- New avatars: pick a look from the default pack and ring it with a decorative frame. The Pioneer frames are reserved for our founding members.
+- The Home wordmark now catches a little sparkle each day.
+- Give any party your own icon and colour theme, just for you, without changing what everyone else sees.
+
 ## July 6, 2026 — party icons + head-to-head polish
 
 - Give your party a face: pick from 48 icons, each tinted to your party's colour.
