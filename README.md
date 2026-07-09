@@ -6,11 +6,10 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**July 7, 2026 — avatars, sparkle, party looks**
+**July 8, 2026 — Head-to-head Plus gate**
 
-- Open Avatar settings and pick one of the new default glyphs plus a frame; the four free frames equip, while the two Pioneer ones read "Pioneer exclusive" and stay locked (no Store detour) unless you're a Pioneer.
-- Glance at the Home wordmark — it should pick up a small daily sparkle and otherwise behave itself.
-- Give a single party your own personal icon/theme without changing how it looks for everyone else.
+- Open head-to-head comparison as a Free user; it should now sit behind a PuzzleParty Plus gate rather than opening.
+- Repeat as a Plus member; the comparison should open as before, no gate in sight.
 
 [All staging releases](releases/staging.md)
 
@@ -28,11 +27,11 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 Features and fixes in development (not yet released)
 
-**622 total updates**
+**629 total updates**
 
 ## [Production](production/README.md)
 
 Released features and fixes
 
-**358 total updates**
+**360 total updates**
 
