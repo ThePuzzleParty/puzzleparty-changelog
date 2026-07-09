@@ -6,6 +6,11 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## July 8, 2026 — Head-to-head Plus gate
+
+- Open head-to-head comparison as a Free user; it should now sit behind a PuzzleParty Plus gate rather than opening.
+- Repeat as a Plus member; the comparison should open as before, no gate in sight.
+
 ## July 7, 2026 — avatars, sparkle, party looks
 
 - Open Avatar settings and pick one of the new default glyphs plus a frame; the four free frames equip, while the two Pioneer ones read "Pioneer exclusive" and stay locked (no Store detour) unless you're a Pioneer.
