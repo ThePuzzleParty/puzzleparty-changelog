@@ -6,10 +6,12 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**July 8, 2026 — Head-to-head Plus gate**
+**July 16, 2026 — Scrandle**
 
-- Open head-to-head comparison as a Free user; it should now sit behind a PuzzleParty Plus gate rather than opening.
-- Repeat as a Plus member; the comparison should open as before, no gate in sight.
+- New game: Scrandle, scrandle.com's daily stadium-food showdown. Finish the daily, tap the clipboard icon on its results screen, paste into PuzzleParty — expect a proper 4/10-style score, not a shrug.
+- No share handy? Manual entry: pick 0–10 correct on the selector, or flip Failed if you bailed mid-scran. Failed keeps your participation streak and breaks the solved ones.
+- After a few entries, open Scrandle in Stats: score histogram with a Failed row, plus a Score Trend graph — a first for any game.
+- Practice-mode and Super Scrandle shares should be politely declined.
 
 [All staging releases](releases/staging.md)
 
@@ -27,7 +29,7 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 Features and fixes in development (not yet released)
 
-**630 total updates**
+**633 total updates**
 
 ## [Production](production/README.md)
 
