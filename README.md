@@ -6,12 +6,13 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**July 16, 2026 — Scrandle**
+**July 19, 2026 — DM reactions + premium picker**
 
-- New game: Scrandle, scrandle.com's daily stadium-food showdown. Finish the daily, tap the clipboard icon on its results screen, paste into PuzzleParty — expect a proper 4/10-style score, not a shrug.
-- No share handy? Manual entry: pick 0–10 correct on the selector, or flip Failed if you bailed mid-scran. Failed keeps your participation streak and breaks the solved ones.
-- After a few entries, open Scrandle in Stats: score histogram with a Failed row, plus a Score Trend graph — a first for any game.
-- Practice-mode and Super Scrandle shares should be politely declined.
+- Long-press a message in a DM thread; the reaction picker should appear, and reactions should show up on the other person's phone without a refresh.
+- Tap the plus at the end of the picker; a sheet of reaction packs opens — owned packs are tappable, locked ones show a padlock and a sales pitch instead of posting.
+- Buy a pack (sandbox); its emojis should unlock in the picker without restarting the app.
+- Post the star or disco ball from an owned pack; those two used to fail silently, so them landing at all is the test.
+- Assorted housekeeping; if you can see it, it's a bug.
 
 [All staging releases](releases/staging.md)
 
