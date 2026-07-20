@@ -6,6 +6,13 @@ What's new in each production release, newest first. Entries are added automatic
 
 ---
 
+## July 20, 2026 — Scrandle, DM reactions, Plus gating
+
+- Scrandle joins the lineup. Rank the dishes, chase the streak, question your taste.
+- You can now react to direct messages, because sometimes a thumbs-up says it all.
+- Plus members get a fancier reaction picker with the premium emoji.
+- Head-to-head comparisons are now a PuzzleParty Plus perk.
+
 ## July 7, 2026 — avatars, sparkle, party looks
 
 - New avatars: pick a look from the default pack and ring it with a decorative frame. The Pioneer frames are reserved for our founding members.
