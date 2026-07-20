@@ -18,11 +18,12 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Production Release
 
-**July 7, 2026 — avatars, sparkle, party looks**
+**July 20, 2026 — Scrandle, DM reactions, Plus gating**
 
-- New avatars: pick a look from the default pack and ring it with a decorative frame. The Pioneer frames are reserved for our founding members.
-- The Home wordmark now catches a little sparkle each day.
-- Give any party your own icon and colour theme, just for you, without changing what everyone else sees.
+- Scrandle joins the lineup. Rank the dishes, chase the streak, question your taste.
+- You can now react to direct messages, because sometimes a thumbs-up says it all.
+- Plus members get a fancier reaction picker with the premium emoji.
+- Head-to-head comparisons are now a PuzzleParty Plus perk.
 
 [All production releases](releases/production.md)
 
@@ -36,5 +37,5 @@ Features and fixes in development (not yet released)
 
 Released features and fixes
 
-**360 total updates**
+**368 total updates**
 
