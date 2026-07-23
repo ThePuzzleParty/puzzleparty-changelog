@@ -6,6 +6,12 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## July 23, 2026 — Account deletion
+
+- Delete your account from Settings: you'll be asked to sign in again, then everything local should vanish along with it. Use a throwaway account unless you're feeling brave.
+- Open the FAQ and find the People & Messages topic; its icon should be an actual icon rather than a blank space.
+- Check Settings for "Spoiler Prevention" — same switch as before, better name.
+
 ## July 19, 2026 — DM reactions + premium picker
 
 - Long-press a message in a DM thread; the reaction picker should appear, and reactions should show up on the other person's phone without a refresh.
