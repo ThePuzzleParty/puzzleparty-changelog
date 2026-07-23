@@ -16,12 +16,11 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Production Release
 
-**July 20, 2026 — Scrandle, DM reactions, Plus gating**
+**July 23, 2026 — Account deletion**
 
-- Scrandle joins the lineup. Rank the dishes, chase the streak, question your taste.
-- You can now react to direct messages, because sometimes a thumbs-up says it all.
-- Plus members get a fancier reaction picker with the premium emoji.
-- Head-to-head comparisons are now a PuzzleParty Plus perk.
+- You can now delete your account and all its data straight from Settings, no email to support required.
+- The "Hide spoilers" setting is now called "Spoiler Prevention" — same job, clearer name.
+- The Messages help topic finally has an icon instead of an awkward blank space.
 
 [All production releases](releases/production.md)
 
@@ -35,5 +34,5 @@ Features and fixes in development (not yet released)
 
 Released features and fixes
 
-**369 total updates**
+**372 total updates**
 
