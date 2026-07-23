@@ -6,6 +6,12 @@ What's new in each production release, newest first. Entries are added automatic
 
 ---
 
+## July 23, 2026 — Account deletion
+
+- You can now delete your account and all its data straight from Settings, no email to support required.
+- The "Hide spoilers" setting is now called "Spoiler Prevention" — same job, clearer name.
+- The Messages help topic finally has an icon instead of an awkward blank space.
+
 ## July 20, 2026 — Scrandle, DM reactions, Plus gating
 
 - Scrandle joins the lineup. Rank the dishes, chase the streak, question your taste.
