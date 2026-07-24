@@ -6,11 +6,11 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**July 23, 2026 — Account deletion**
+**July 24, 2026 — Reaction picker Plus upsell**
 
-- Delete your account from Settings: you'll be asked to sign in again, then everything local should vanish along with it. Use a throwaway account unless you're feeling brave.
-- Open the FAQ and find the People & Messages topic; its icon should be an actual icon rather than a blank space.
-- Check Settings for "Spoiler Prevention" — same switch as before, better name.
+- As a free user, open the reaction picker: the premium reactions should now pitch a Plus upsell instead of silently doing nothing. Plus users still get the full picker.
+- Poke the head-to-head Plus gate too; it shares the same upsell now, so it should look and behave identically to the reaction one.
+- Assorted plumbing; if you can see it, it's a bug.
 
 [All staging releases](releases/staging.md)
 
@@ -28,7 +28,7 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 Features and fixes in development (not yet released)
 
-**647 total updates**
+**648 total updates**
 
 ## [Production](production/README.md)
 
