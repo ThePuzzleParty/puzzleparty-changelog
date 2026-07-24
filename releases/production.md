@@ -6,6 +6,11 @@ What's new in each production release, newest first. Entries are added automatic
 
 ---
 
+## July 24, 2026 — Reactions as a Plus perk
+
+- Reactions are now a Plus perk: subscribers get the full emoji set everywhere, and everyone else gets a tap-to-upgrade nudge instead of a checkout.
+- Reaction packs are no longer sold separately — if you're on Plus, you already have them all.
+
 ## July 23, 2026 — Account deletion
 
 - You can now delete your account and all its data straight from Settings, no email to support required.
