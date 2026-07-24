@@ -16,11 +16,10 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Production Release
 
-**July 23, 2026 — Account deletion**
+**July 24, 2026 — Reactions as a Plus perk**
 
-- You can now delete your account and all its data straight from Settings, no email to support required.
-- The "Hide spoilers" setting is now called "Spoiler Prevention" — same job, clearer name.
-- The Messages help topic finally has an icon instead of an awkward blank space.
+- Reactions are now a Plus perk: subscribers get the full emoji set everywhere, and everyone else gets a tap-to-upgrade nudge instead of a checkout.
+- Reaction packs are no longer sold separately — if you're on Plus, you already have them all.
 
 [All production releases](releases/production.md)
 
@@ -34,5 +33,5 @@ Features and fixes in development (not yet released)
 
 Released features and fixes
 
-**372 total updates**
+**373 total updates**
 
