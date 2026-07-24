@@ -6,6 +6,12 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## July 24, 2026 — Reaction picker Plus upsell
+
+- As a free user, open the reaction picker: the premium reactions should now pitch a Plus upsell instead of silently doing nothing. Plus users still get the full picker.
+- Poke the head-to-head Plus gate too; it shares the same upsell now, so it should look and behave identically to the reaction one.
+- Assorted plumbing; if you can see it, it's a bug.
+
 ## July 23, 2026 — Account deletion
 
 - Delete your account from Settings: you'll be asked to sign in again, then everything local should vanish along with it. Use a throwaway account unless you're feeling brave.
