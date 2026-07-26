@@ -6,6 +6,12 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## July 26, 2026 — reactions + Plus borders
+
+- As a Plus subscriber, pick a ring-style avatar frame; it should render as a full inset ring around your avatar, with the picker tidily sorted into categories.
+- React to a party message with several emojis, then long-press to reopen the picker: every one you've already used shows a green ring — including picks from the Plus set — and tapping one again removes it.
+- In a DM, fire off two different reactions in quick succession; both should stick, instead of the second flickering and vanishing.
+
 ## July 24, 2026 — Reaction picker Plus upsell
 
 - As a free user, open the reaction picker: the premium reactions should now pitch a Plus upsell instead of silently doing nothing. Plus users still get the full picker.
