@@ -6,11 +6,11 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**July 24, 2026 — Reaction picker Plus upsell**
+**July 26, 2026 — reactions + Plus borders**
 
-- As a free user, open the reaction picker: the premium reactions should now pitch a Plus upsell instead of silently doing nothing. Plus users still get the full picker.
-- Poke the head-to-head Plus gate too; it shares the same upsell now, so it should look and behave identically to the reaction one.
-- Assorted plumbing; if you can see it, it's a bug.
+- As a Plus subscriber, pick a ring-style avatar frame; it should render as a full inset ring around your avatar, with the picker tidily sorted into categories.
+- React to a party message with several emojis, then long-press to reopen the picker: every one you've already used shows a green ring — including picks from the Plus set — and tapping one again removes it.
+- In a DM, fire off two different reactions in quick succession; both should stick, instead of the second flickering and vanishing.
 
 [All staging releases](releases/staging.md)
 
