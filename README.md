@@ -6,11 +6,11 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**July 26, 2026 — reactions + Plus borders**
+**July 27, 2026 — reaction hardening + avatar frames**
 
-- As a Plus subscriber, pick a ring-style avatar frame; it should render as a full inset ring around your avatar, with the picker tidily sorted into categories.
-- React to a party message with several emojis, then long-press to reopen the picker: every one you've already used shows a green ring — including picks from the Plus set — and tapping one again removes it.
-- In a DM, fire off two different reactions in quick succession; both should stick, instead of the second flickering and vanishing.
+- Add several different reactions to a DM, as fast as you like; all of them should appear and stay. Previously the second one performed a brief cameo and vanished.
+- Tap two different reaction emojis in quick succession (DM or party feed); both should register, and a failed request no longer takes a neighboring reaction down with it.
+- Equip an avatar frame, then check the People tab and a head-to-head header; the frame should render there too, not just on your profile.
 
 [All staging releases](releases/staging.md)
 
