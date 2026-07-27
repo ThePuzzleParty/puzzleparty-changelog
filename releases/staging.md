@@ -6,6 +6,12 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## July 27, 2026 — reaction hardening + avatar frames
+
+- Add several different reactions to a DM, as fast as you like; all of them should appear and stay. Previously the second one performed a brief cameo and vanished.
+- Tap two different reaction emojis in quick succession (DM or party feed); both should register, and a failed request no longer takes a neighboring reaction down with it.
+- Equip an avatar frame, then check the People tab and a head-to-head header; the frame should render there too, not just on your profile.
+
 ## July 26, 2026 — reactions + Plus borders
 
 - As a Plus subscriber, pick a ring-style avatar frame; it should render as a full inset ring around your avatar, with the picker tidily sorted into categories.
