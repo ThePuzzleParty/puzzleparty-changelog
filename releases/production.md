@@ -6,6 +6,13 @@ What's new in each production release, newest first. Entries are added automatic
 
 ---
 
+## July 27, 2026 — reaction integrity + Plus borders
+
+- Reactions grew up: pile as many different emojis as you like onto a message or DM and they all actually stay. The mysterious vanishing second reaction has been retired.
+- The reaction picker now highlights everything you've picked, and tapping one again removes it.
+- Plus members get 18 new ring-style avatar frames, in a tidier picker.
+- Your equipped frame now shows up on the People tab and head-to-head pages too.
+
 ## July 24, 2026 — Reactions as a Plus perk
 
 - Reactions are now a Plus perk: subscribers get the full emoji set everywhere, and everyone else gets a tap-to-upgrade nudge instead of a checkout.
