@@ -16,10 +16,12 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Production Release
 
-**July 24, 2026 — Reactions as a Plus perk**
+**July 27, 2026 — reaction integrity + Plus borders**
 
-- Reactions are now a Plus perk: subscribers get the full emoji set everywhere, and everyone else gets a tap-to-upgrade nudge instead of a checkout.
-- Reaction packs are no longer sold separately — if you're on Plus, you already have them all.
+- Reactions grew up: pile as many different emojis as you like onto a message or DM and they all actually stay. The mysterious vanishing second reaction has been retired.
+- The reaction picker now highlights everything you've picked, and tapping one again removes it.
+- Plus members get 18 new ring-style avatar frames, in a tidier picker.
+- Your equipped frame now shows up on the People tab and head-to-head pages too.
 
 [All production releases](releases/production.md)
 
@@ -33,5 +35,5 @@ Features and fixes in development (not yet released)
 
 Released features and fixes
 
-**375 total updates**
+**380 total updates**
 
