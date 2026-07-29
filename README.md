@@ -6,11 +6,9 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**July 27, 2026 — reaction hardening + avatar frames**
+**July 29, 2026 — partner page links**
 
-- Add several different reactions to a DM, as fast as you like; all of them should appear and stay. Previously the second one performed a brief cameo and vanished.
-- Tap two different reaction emojis in quick succession (DM or party feed); both should register, and a failed request no longer takes a neighboring reaction down with it.
-- Equip an avatar frame, then check the People tab and a head-to-head header; the frame should render there too, not just on your profile.
+- Open the avatar menu and scroll the Games tab to the bottom; both now carry a "Partner with PuzzleParty" link that should open the partner page in your browser. If you run a puzzle game, we'd love to hear from you; if you don't, enjoy the field trip.
 
 [All staging releases](releases/staging.md)
 
@@ -29,7 +27,7 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 Features and fixes in development (not yet released)
 
-**660 total updates**
+**662 total updates**
 
 ## [Production](production/README.md)
 
