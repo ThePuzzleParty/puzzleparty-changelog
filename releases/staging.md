@@ -6,6 +6,10 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## July 29, 2026 — partner page links
+
+- Open the avatar menu and scroll the Games tab to the bottom; both now carry a "Partner with PuzzleParty" link that should open the partner page in your browser. If you run a puzzle game, we'd love to hear from you; if you don't, enjoy the field trip.
+
 ## July 27, 2026 — reaction hardening + avatar frames
 
 - Add several different reactions to a DM, as fast as you like; all of them should appear and stay. Previously the second one performed a brief cameo and vanished.
