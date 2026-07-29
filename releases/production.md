@@ -6,6 +6,10 @@ What's new in each production release, newest first. Entries are added automatic
 
 ---
 
+## July 29, 2026 — partner page links
+
+- New: a Partner with PuzzleParty page, linked from the avatar menu and the Games tab. If you make a daily puzzle game, come say hello — we bring the friendly competition.
+
 ## July 27, 2026 — reaction integrity + Plus borders
 
 - Reactions grew up: pile as many different emojis as you like onto a message or DM and they all actually stay. The mysterious vanishing second reaction has been retired.
