@@ -14,12 +14,9 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Production Release
 
-**July 27, 2026 — reaction integrity + Plus borders**
+**July 29, 2026 — partner page links**
 
-- Reactions grew up: pile as many different emojis as you like onto a message or DM and they all actually stay. The mysterious vanishing second reaction has been retired.
-- The reaction picker now highlights everything you've picked, and tapping one again removes it.
-- Plus members get 18 new ring-style avatar frames, in a tidier picker.
-- Your equipped frame now shows up on the People tab and head-to-head pages too.
+- New: a Partner with PuzzleParty page, linked from the avatar menu and the Games tab. If you make a daily puzzle game, come say hello — we bring the friendly competition.
 
 [All production releases](releases/production.md)
 
@@ -33,5 +30,5 @@ Features and fixes in development (not yet released)
 
 Released features and fixes
 
-**386 total updates**
+**388 total updates**
 
