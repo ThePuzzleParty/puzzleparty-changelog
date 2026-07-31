@@ -6,6 +6,12 @@ What's new in each production release, newest first. Entries are added automatic
 
 ---
 
+## July 31, 2026 — Nerdle
+
+- Nerdle joins the lineup: the daily number-equation puzzle now counts toward your party scores and streaks.
+- Share your Nerdle result straight into PuzzleParty, or log a did-not-finish day manually.
+- Fewer guesses, better score. The math checks out.
+
 ## July 29, 2026 — partner page links
 
 - New: a Partner with PuzzleParty page, linked from the avatar menu and the Games tab. If you make a daily puzzle game, come say hello — we bring the friendly competition.
