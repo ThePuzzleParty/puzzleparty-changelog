@@ -6,6 +6,13 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## July 30, 2026 — Nerdle support
+
+- Paste a Nerdle result (nerdlegame 1653 3/6 plus its grid); it should parse, score like Wordle, and land on the scoreboard.
+- Try a mini or speed nerdle share; the app should politely decline rather than file it under classic.
+- Log a Nerdle manually, including the unsolved toggle — a DNF is the only way to record a loss, since Nerdle never shares one.
+- Check Nerdle's stats page after a few entries: guess distribution and a trend graph, not "Avg Score".
+
 ## July 29, 2026 — partner page links
 
 - Open the avatar menu and scroll the Games tab to the bottom; both now carry a "Partner with PuzzleParty" link that should open the partner page in your browser. If you run a puzzle game, we'd love to hear from you; if you don't, enjoy the field trip.
