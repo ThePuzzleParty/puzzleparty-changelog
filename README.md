@@ -6,12 +6,11 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**July 30, 2026 — Nerdle support**
+**August 1, 2026 — One Word Search support**
 
-- Paste a Nerdle result (nerdlegame 1653 3/6 plus its grid); it should parse, score like Wordle, and land on the scoreboard.
-- Try a mini or speed nerdle share; the app should politely decline rather than file it under classic.
-- Log a Nerdle manually, including the unsolved toggle — a DNF is the only way to record a loss, since Nerdle never shares one.
-- Check Nerdle's stats page after a few entries: guess distribution and a trend graph, not "Avg Score".
+- Solve One Word Search (puzzlist.com/onewordsearch) and share the result into PuzzleParty; it should land as a timed score whose party rating matches the game's own stars — 5-star sparkle rows and streak-milestone hashtags included.
+- Log one manually too: time picker with a DNF toggle, filed under Word Games.
+- Check its stats page after a couple of entries: solve-time trend, not "Avg Score".
 
 [All staging releases](releases/staging.md)
 
@@ -29,7 +28,7 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 Features and fixes in development (not yet released)
 
-**669 total updates**
+**671 total updates**
 
 ## [Production](production/README.md)
 
