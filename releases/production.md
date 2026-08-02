@@ -6,6 +6,11 @@ What's new in each production release, newest first. Entries are added automatic
 
 ---
 
+## August 1, 2026 — One Word Search
+
+- One Word Search joins the roster: share your daily 5x5 from puzzlist.com and your solve time scores against the party, star rating faithfully preserved.
+- Prefer to keep your clipboard to yourself? Manual entry works too, DNF toggle included.
+
 ## July 31, 2026 — Nerdle
 
 - Nerdle joins the lineup: the daily number-equation puzzle now counts toward your party scores and streaks.
