@@ -16,11 +16,10 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Production Release
 
-**July 31, 2026 — Nerdle**
+**August 1, 2026 — One Word Search**
 
-- Nerdle joins the lineup: the daily number-equation puzzle now counts toward your party scores and streaks.
-- Share your Nerdle result straight into PuzzleParty, or log a did-not-finish day manually.
-- Fewer guesses, better score. The math checks out.
+- One Word Search joins the roster: share your daily 5x5 from puzzlist.com and your solve time scores against the party, star rating faithfully preserved.
+- Prefer to keep your clipboard to yourself? Manual entry works too, DNF toggle included.
 
 [All production releases](releases/production.md)
 
@@ -34,5 +33,5 @@ Features and fixes in development (not yet released)
 
 Released features and fixes
 
-**394 total updates**
+**396 total updates**
 
