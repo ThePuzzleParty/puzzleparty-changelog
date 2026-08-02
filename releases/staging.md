@@ -6,6 +6,12 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## August 1, 2026 — One Word Search support
+
+- Solve One Word Search (puzzlist.com/onewordsearch) and share the result into PuzzleParty; it should land as a timed score whose party rating matches the game's own stars — 5-star sparkle rows and streak-milestone hashtags included.
+- Log one manually too: time picker with a DNF toggle, filed under Word Games.
+- Check its stats page after a couple of entries: solve-time trend, not "Avg Score".
+
 ## July 30, 2026 — Nerdle support
 
 - Paste a Nerdle result (nerdlegame 1653 3/6 plus its grid); it should parse, score like Wordle, and land on the scoreboard.
