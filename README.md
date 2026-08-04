@@ -6,11 +6,12 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**August 1, 2026 — One Word Search support**
+**August 4, 2026 — Invite sign-in fixes + auth diagnostics**
 
-- Solve One Word Search (puzzlist.com/onewordsearch) and share the result into PuzzleParty; it should land as a timed score whose party rating matches the game's own stars — 5-star sparkle rows and streak-milestone hashtags included.
-- Log one manually too: time picker with a DNF toggle, filed under Word Games.
-- Check its stats page after a couple of entries: solve-time trend, not "Avg Score".
+- Open a party invite link as a fresh install: the preview should show the real party name, host, and games — not a network error.
+- Sign in with Google or Apple from that invite flow: you should land in the app and join the party without force-quitting.
+- Cancel a sign-in midway, then retry: the buttons stay usable, and genuine failures now show an actual error message instead of silence.
+- Assorted housekeeping; if you can see it, it's a bug.
 
 [All staging releases](releases/staging.md)
 
