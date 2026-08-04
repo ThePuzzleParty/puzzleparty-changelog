@@ -6,6 +6,13 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## August 4, 2026 — Invite sign-in fixes + auth diagnostics
+
+- Open a party invite link as a fresh install: the preview should show the real party name, host, and games — not a network error.
+- Sign in with Google or Apple from that invite flow: you should land in the app and join the party without force-quitting.
+- Cancel a sign-in midway, then retry: the buttons stay usable, and genuine failures now show an actual error message instead of silence.
+- Assorted housekeeping; if you can see it, it's a bug.
+
 ## August 1, 2026 — One Word Search support
 
 - Solve One Word Search (puzzlist.com/onewordsearch) and share the result into PuzzleParty; it should land as a timed score whose party rating matches the game's own stars — 5-star sparkle rows and streak-milestone hashtags included.
