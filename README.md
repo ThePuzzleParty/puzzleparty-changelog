@@ -6,12 +6,12 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**August 19, 2026 — Store fix + Catalogues support**
+**August 19, 2026 — Repeatable tip jar**
 
-- Open the Store tab: it should load subscriptions, support tiers, and avatar packs with real prices, instead of the "check your connection" dead end it has been serving on device.
-- Share a Catalogues result from The New Yorker; it should parse, score, and appear on the party scoreboard like any other game.
-- Log one by hand too: manual entry should offer Catalogues with the right fields, DNF included.
-- Check its stats page after a couple of entries: a Catalogues-specific trend, not a generic "Avg Score" shrug.
+- Open the Store tab: all three tip tiers show a price button, even ones you tipped before — the green "Owned" state is gone.
+- Tip a tier, then tip the same tier again; both purchases should complete, each with a "Thanks for the tip!" card.
+- Tiers you've tipped show a small Supporter heart; your badge still reflects your highest tier.
+- Tap Restore Purchases: Plus and avatar packs come back, tips don't — note the new caption explaining tips are saved to your account.
 - Assorted housekeeping; if you can see it, it's a bug.
 
 [All staging releases](releases/staging.md)
