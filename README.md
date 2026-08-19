@@ -6,8 +6,9 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**August 19, 2026 — Catalogues support**
+**August 19, 2026 — Store fix + Catalogues support**
 
+- Open the Store tab: it should load subscriptions, support tiers, and avatar packs with real prices, instead of the "check your connection" dead end it has been serving on device.
 - Share a Catalogues result from The New Yorker; it should parse, score, and appear on the party scoreboard like any other game.
 - Log one by hand too: manual entry should offer Catalogues with the right fields, DNF included.
 - Check its stats page after a couple of entries: a Catalogues-specific trend, not a generic "Avg Score" shrug.
