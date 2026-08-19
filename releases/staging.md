@@ -6,6 +6,13 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## August 19, 2026 — Catalogues support
+
+- Share a Catalogues result from The New Yorker; it should parse, score, and appear on the party scoreboard like any other game.
+- Log one by hand too: manual entry should offer Catalogues with the right fields, DNF included.
+- Check its stats page after a couple of entries: a Catalogues-specific trend, not a generic "Avg Score" shrug.
+- Assorted housekeeping; if you can see it, it's a bug.
+
 ## August 4, 2026 — Invite sign-in fixes + auth diagnostics
 
 - Open a party invite link as a fresh install: the preview should show the real party name, host, and games — not a network error.
