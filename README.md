@@ -6,11 +6,11 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**August 4, 2026 — Invite sign-in fixes + auth diagnostics**
+**August 19, 2026 — Catalogues support**
 
-- Open a party invite link as a fresh install: the preview should show the real party name, host, and games — not a network error.
-- Sign in with Google or Apple from that invite flow: you should land in the app and join the party without force-quitting.
-- Cancel a sign-in midway, then retry: the buttons stay usable, and genuine failures now show an actual error message instead of silence.
+- Share a Catalogues result from The New Yorker; it should parse, score, and appear on the party scoreboard like any other game.
+- Log one by hand too: manual entry should offer Catalogues with the right fields, DNF included.
+- Check its stats page after a couple of entries: a Catalogues-specific trend, not a generic "Avg Score" shrug.
 - Assorted housekeeping; if you can see it, it's a bug.
 
 [All staging releases](releases/staging.md)
@@ -28,7 +28,7 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 Features and fixes in development (not yet released)
 
-**674 total updates**
+**678 total updates**
 
 ## [Production](production/README.md)
 
