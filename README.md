@@ -6,13 +6,11 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**August 19, 2026 — Repeatable tip jar**
+**August 19, 2026 — Strands themed tiles**
 
-- Open the Store tab: all three tip tiers show a price button, even ones you tipped before — the green "Owned" state is gone.
-- Tip a tier, then tip the same tier again; both purchases should complete, each with a "Thanks for the tip!" card.
-- Tiers you've tipped show a small Supporter heart; your badge still reflects your highest tier.
-- Tap Restore Purchases: Plus and avatar packs come back, tips don't — note the new caption explaining tips are saved to your account.
-- Assorted housekeeping; if you can see it, it's a bug.
+- Paste a Strands result from a day NYT swapped in novelty tiles (July 4 used fireworks and a flag; Aug 19 used a picnic basket and a hot dog). It should score as a solve, not a zero.
+- Open the scoreboard for July 4 or Aug 19: those Strands rows now carry real scores instead of goose eggs.
+- Share an ordinary blue-and-yellow Strands board too. Nothing about the normal case should have moved.
 
 [All staging releases](releases/staging.md)
 
@@ -29,11 +27,11 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 Features and fixes in development (not yet released)
 
-**678 total updates**
+**687 total updates**
 
 ## [Production](production/README.md)
 
 Released features and fixes
 
-**396 total updates**
+**401 total updates**
 
