@@ -6,6 +6,12 @@ What's new in each production release, newest first. Entries are added automatic
 
 ---
 
+## August 20, 2026 — Quick Paste
+
+- Play on a computer? Link it once from Settings, then paste your results straight into puzzleparty.app/paste. No more emailing yourself a Wordle grid.
+- Add a note when you paste, and it reaches your parties behind spoiler protection, exactly as it would from your phone.
+- The Stats Hub now opens on top of the app instead of swallowing the navigation, and Back leaves you where you started.
+
 ## August 19, 2026 — Repeatable tips + Catalogues
 
 - The tip jar now accepts repeat business: tip any tier as often as the mood strikes.
