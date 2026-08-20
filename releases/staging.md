@@ -6,6 +6,12 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## August 19, 2026 — Strands themed tiles
+
+- Paste a Strands result from a day NYT swapped in novelty tiles (July 4 used fireworks and a flag; Aug 19 used a picnic basket and a hot dog). It should score as a solve, not a zero.
+- Open the scoreboard for July 4 or Aug 19: those Strands rows now carry real scores instead of goose eggs.
+- Share an ordinary blue-and-yellow Strands board too. Nothing about the normal case should have moved.
+
 ## August 19, 2026 — Repeatable tip jar
 
 - Open the Store tab: all three tip tiers show a price button, even ones you tipped before — the green "Owned" state is gone.
