@@ -16,10 +16,14 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Production Release
 
-**August 1, 2026 — One Word Search**
+**August 19, 2026 — Repeatable tips + Catalogues**
 
-- One Word Search joins the roster: share your daily 5x5 from puzzlist.com and your solve time scores against the party, star rating faithfully preserved.
-- Prefer to keep your clipboard to yourself? Manual entry works too, DNF toggle included.
+- The tip jar now accepts repeat business: tip any tier as often as the mood strikes.
+- New game: Catalogues, from The New Yorker — share it, log it by hand, watch its stats trend.
+- Strands results with themed emoji boards now parse instead of sulking.
+- The Store tab actually loads now, prices and all.
+- Joining by invite link no longer strands you at sign-in.
+- Now requires iOS 15 or later.
 
 [All production releases](releases/production.md)
 
