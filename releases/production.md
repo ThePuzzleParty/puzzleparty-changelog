@@ -6,6 +6,15 @@ What's new in each production release, newest first. Entries are added automatic
 
 ---
 
+## August 19, 2026 — Repeatable tips + Catalogues
+
+- The tip jar now accepts repeat business: tip any tier as often as the mood strikes.
+- New game: Catalogues, from The New Yorker — share it, log it by hand, watch its stats trend.
+- Strands results with themed emoji boards now parse instead of sulking.
+- The Store tab actually loads now, prices and all.
+- Joining by invite link no longer strands you at sign-in.
+- Now requires iOS 15 or later.
+
 ## August 1, 2026 — One Word Search
 
 - One Word Search joins the roster: share your daily 5x5 from puzzlist.com and your solve time scores against the party, star rating faithfully preserved.
