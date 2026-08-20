@@ -12,7 +12,7 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 - Paste a puzzle result into that page; it should land on your phone exactly as if you had shared it there.
 - Unlink the computer again from the same screen. The next paste should send it back to the pairing code, no reload required.
 - Open the Stats Hub from the store: it should sit on top of the app rather than swallowing the navigation, and Back should return you where you came from.
-- The address the app tells you to visit should match the one above. An earlier build of this release pointed at the production site, where your code would have been quietly unusable.
+- The address the app tells you to visit should match the one above, exactly. Earlier builds of this release named the wrong host, where your code would have been quietly unusable.
 
 ## August 19, 2026 — Strands themed tiles
 
