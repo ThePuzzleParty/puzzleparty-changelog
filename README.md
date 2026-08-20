@@ -6,11 +6,12 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**August 19, 2026 — Strands themed tiles**
+**August 20, 2026 — Linked computers + Stats Hub fix**
 
-- Paste a Strands result from a day NYT swapped in novelty tiles (July 4 used fireworks and a flag; Aug 19 used a picnic basket and a hot dog). It should score as a solve, not a zero.
-- Open the scoreboard for July 4 or Aug 19: those Strands rows now carry real scores instead of goose eggs.
-- Share an ordinary blue-and-yellow Strands board too. Nothing about the normal case should have moved.
+- Settings, Linked computers, Link a computer: open puzzleparty.dev/paste on a computer and type in the code it shows you.
+- Paste a puzzle result into that page; it should land on your phone exactly as if you had shared it there.
+- Unlink the computer again from the same screen. The next paste should send it back to the pairing code, no reload required.
+- Open the Stats Hub from the store: it should sit on top of the app rather than swallowing the navigation, and Back should return you where you came from.
 
 [All staging releases](releases/staging.md)
 
