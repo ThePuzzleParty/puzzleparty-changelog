@@ -18,14 +18,11 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Production Release
 
-**August 19, 2026 — Repeatable tips + Catalogues**
+**August 20, 2026 — Quick Paste**
 
-- The tip jar now accepts repeat business: tip any tier as often as the mood strikes.
-- New game: Catalogues, from The New Yorker — share it, log it by hand, watch its stats trend.
-- Strands results with themed emoji boards now parse instead of sulking.
-- The Store tab actually loads now, prices and all.
-- Joining by invite link no longer strands you at sign-in.
-- Now requires iOS 15 or later.
+- Play on a computer? Link it once from Settings, then paste your results straight into puzzleparty.app/paste. No more emailing yourself a Wordle grid.
+- Add a note when you paste, and it reaches your parties behind spoiler protection, exactly as it would from your phone.
+- The Stats Hub now opens on top of the app instead of swallowing the navigation, and Back leaves you where you started.
 
 [All production releases](releases/production.md)
 
