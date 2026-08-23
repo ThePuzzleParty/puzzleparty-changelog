@@ -6,6 +6,14 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## August 23, 2026 — Clipboard auto-submit + credits
+
+- Copy a puzzle result, open the app, and hit the + button: the result should submit itself, no paste required. Copy something that isn't a puzzle and + should behave as before.
+- Settings, About, Credits: a new screen listing the fonts and libraries we borrowed. Riveting reading.
+- Link a computer: the instructions are clearer, the pairing code formats itself as you type, and you can share it straight to the computer.
+- Send a party invite from an iPhone: the share sheet should actually appear now instead of silently giving up.
+- Assorted housekeeping; if you can see it, it's a bug.
+
 ## August 20, 2026 — Linked computers + Stats Hub fix
 
 - Settings, Linked computers, Link a computer: open puzzleparty.dev/paste on a computer and type in the code it shows you.
