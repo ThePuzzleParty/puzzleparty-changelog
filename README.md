@@ -6,13 +6,13 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**August 20, 2026 — Linked computers + Stats Hub fix**
+**August 23, 2026 — Clipboard auto-submit + credits**
 
-- Settings, Linked computers, Link a computer: open puzzleparty.dev/paste on a computer and type in the code it shows you.
-- Paste a puzzle result into that page; it should land on your phone exactly as if you had shared it there.
-- Unlink the computer again from the same screen. The next paste should send it back to the pairing code, no reload required.
-- Open the Stats Hub from the store: it should sit on top of the app rather than swallowing the navigation, and Back should return you where you came from.
-- The address the app tells you to visit should match the one above, exactly. Earlier builds of this release named the wrong host, where your code would have been quietly unusable.
+- Copy a puzzle result, open the app, and hit the + button: the result should submit itself, no paste required. Copy something that isn't a puzzle and + should behave as before.
+- Settings, About, Credits: a new screen listing the fonts and libraries we borrowed. Riveting reading.
+- Link a computer: the instructions are clearer, the pairing code formats itself as you type, and you can share it straight to the computer.
+- Send a party invite from an iPhone: the share sheet should actually appear now instead of silently giving up.
+- Assorted housekeeping; if you can see it, it's a bug.
 
 [All staging releases](releases/staging.md)
 
