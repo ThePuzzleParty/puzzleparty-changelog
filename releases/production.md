@@ -6,6 +6,15 @@ What's new in each production release, newest first. Entries are added automatic
 
 ---
 
+## August 24, 2026 — Clipboard auto-submit & credits
+
+- Tap + with a result on your clipboard and it submits itself. iOS will ask permission once, politely.
+- Joining a party from an invite link now drops you back at Home, where your new party actually is.
+- The invite share sheet shows up on iOS again, which helps.
+- Linking a computer: clearer steps, auto-formatted codes, and a fixed paste quirk.
+- Avatar packs are now all laid out to browse — no more digging.
+- New Credits screen in Settings, for the curious.
+
 ## August 20, 2026 — Quick Paste
 
 - Play on a computer? Link it once from Settings, then paste your results straight into puzzleparty.app/paste. No more emailing yourself a Wordle grid.
