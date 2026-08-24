@@ -6,6 +6,12 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## August 24, 2026 — Avatar packs + paste primer
+
+- Open the avatar picker's Pack tab: every pack now sits fully expanded in one list, and the store tile is gone.
+- Fresh install on iOS: copy a puzzle result and open the app — a one-time explainer should appear before the system "Allow Paste" prompt, then never again.
+- Skim the Credits screen; a certain AI assistant has been politely shown the door.
+
 ## August 23, 2026 — Clipboard auto-submit + credits
 
 - Copy a puzzle result, open the app, and hit the + button: the result should submit itself, no paste required. Copy something that isn't a puzzle and + should behave as before.
