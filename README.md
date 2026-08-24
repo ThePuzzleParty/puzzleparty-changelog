@@ -6,11 +6,11 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**August 24, 2026 — Avatar packs + paste primer**
+**August 24, 2026 — Splash icon, signup disclosure, invite fix**
 
-- Open the avatar picker's Pack tab: every pack now sits fully expanded in one list, and the store tile is gone.
-- Fresh install on iOS: copy a puzzle result and open the app — a one-time explainer should appear before the system "Allow Paste" prompt, then never again.
-- Skim the Credits screen; a certain AI assistant has been politely shown the door.
+- Cold-start the app: the splash screen should show the branded PuzzleParty icon instead of a blank void.
+- Run through a fresh signup: the email step now says up front what we'll send you before you hand over the address.
+- Open a party invite link and join: after signing in you should land on Home, not a dead end.
 
 [All staging releases](releases/staging.md)
 
