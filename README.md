@@ -16,11 +16,14 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Production Release
 
-**August 20, 2026 — Quick Paste**
+**August 24, 2026 — Clipboard auto-submit & credits**
 
-- Play on a computer? Link it once from Settings, then paste your results straight into puzzleparty.app/paste. No more emailing yourself a Wordle grid.
-- Add a note when you paste, and it reaches your parties behind spoiler protection, exactly as it would from your phone.
-- The Stats Hub now opens on top of the app instead of swallowing the navigation, and Back leaves you where you started.
+- Tap + with a result on your clipboard and it submits itself. iOS will ask permission once, politely.
+- Joining a party from an invite link now drops you back at Home, where your new party actually is.
+- The invite share sheet shows up on iOS again, which helps.
+- Linking a computer: clearer steps, auto-formatted codes, and a fixed paste quirk.
+- Avatar packs are now all laid out to browse — no more digging.
+- New Credits screen in Settings, for the curious.
 
 [All production releases](releases/production.md)
 
@@ -34,5 +37,5 @@ Features and fixes in development (not yet released)
 
 Released features and fixes
 
-**404 total updates**
+**412 total updates**
 
