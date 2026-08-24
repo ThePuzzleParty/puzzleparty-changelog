@@ -6,6 +6,12 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## August 24, 2026 — Splash icon, signup disclosure, invite fix
+
+- Cold-start the app: the splash screen should show the branded PuzzleParty icon instead of a blank void.
+- Run through a fresh signup: the email step now says up front what we'll send you before you hand over the address.
+- Open a party invite link and join: after signing in you should land on Home, not a dead end.
+
 ## August 24, 2026 — Avatar packs + paste primer
 
 - Open the avatar picker's Pack tab: every pack now sits fully expanded in one list, and the store tile is gone.
