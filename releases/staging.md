@@ -6,6 +6,13 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## September 1, 2026 — Daily Crossword + test harness
+
+- Share a NYT Daily Crossword, Sunday included; over-hour solves should read 1:13:43, not 73 seconds. Manual entry grew an hours picker.
+- The debug server override is gone; if you had one saved, the app should quietly forget it and stay pointed at staging.
+- Settings can now conjure a filled test account and reset to a fresh run — you should land as somebody new, not half-wiped.
+- Stuck mid-onboarding? The fresh-run chip is reachable there now, without the force-quit pilgrimage back through Home.
+
 ## September 1, 2026 — Consolidated invites
 
 - Have someone invite you to a party; an "Invitations for you" card should appear on the People tab. Join, decline, or block from it. The nav badge counts invitations alongside unread messages.
