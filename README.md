@@ -6,15 +6,12 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**August 31, 2026 — Cold-start onboarding + invites**
+**September 1, 2026 — Consolidated invites**
 
-- Fresh account: a three-door welcome (invite code / start a party / just looking) should replace the empty Home.
-- Pick "just checking it out" to meet the Welcome Party, a labeled sample with Dot and Spot. Your pasted result scores; theirs count for nothing.
-- Partyless Home has a day-zero hero with the lime plus; the party wizard should take about fifteen seconds.
-- Invite a friend: a full-screen invite screen with status tracker, Nudge and Remove, code/QR/share below. No contacts prompt.
-- Store: purchases on Android (new billing library), and a close button when the screen is pushed on its own.
-- The delete-account screen finally admits it keeps an email-suppression record.
-- Assorted housekeeping; if you can see it, it's a bug.
+- Have someone invite you to a party; an "Invitations for you" card should appear on the People tab. Join, decline, or block from it. The nav badge counts invitations alongside unread messages.
+- Send a few invites of your own, then tap "Waiting on N invites" on the People tab. One list, every party, with nudge and remove. Nudge is no longer offered on someone who already joined.
+- Tap an invitation's row body to open the party preview. Continue should join you outright, rather than parking on a spinner as it used to.
+- Tell the roster prompt "Not now", then force-quit and paste the same game again. It should take the hint this time.
 
 [All staging releases](releases/staging.md)
 
