@@ -6,6 +6,13 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## September 1, 2026 — Consolidated invites
+
+- Have someone invite you to a party; an "Invitations for you" card should appear on the People tab. Join, decline, or block from it. The nav badge counts invitations alongside unread messages.
+- Send a few invites of your own, then tap "Waiting on N invites" on the People tab. One list, every party, with nudge and remove. Nudge is no longer offered on someone who already joined.
+- Tap an invitation's row body to open the party preview. Continue should join you outright, rather than parking on a spinner as it used to.
+- Tell the roster prompt "Not now", then force-quit and paste the same game again. It should take the hint this time.
+
 ## August 31, 2026 — Cold-start onboarding + invites
 
 - Fresh account: a three-door welcome (invite code / start a party / just looking) should replace the empty Home.
