@@ -6,12 +6,12 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**September 1, 2026 — Consolidated invites**
+**September 1, 2026 — Daily Crossword + test harness**
 
-- Have someone invite you to a party; an "Invitations for you" card should appear on the People tab. Join, decline, or block from it. The nav badge counts invitations alongside unread messages.
-- Send a few invites of your own, then tap "Waiting on N invites" on the People tab. One list, every party, with nudge and remove. Nudge is no longer offered on someone who already joined.
-- Tap an invitation's row body to open the party preview. Continue should join you outright, rather than parking on a spinner as it used to.
-- Tell the roster prompt "Not now", then force-quit and paste the same game again. It should take the hint this time.
+- Share a NYT Daily Crossword, Sunday included; over-hour solves should read 1:13:43, not 73 seconds. Manual entry grew an hours picker.
+- The debug server override is gone; if you had one saved, the app should quietly forget it and stay pointed at staging.
+- Settings can now conjure a filled test account and reset to a fresh run — you should land as somebody new, not half-wiped.
+- Stuck mid-onboarding? The fresh-run chip is reachable there now, without the force-quit pilgrimage back through Home.
 
 [All staging releases](releases/staging.md)
 
