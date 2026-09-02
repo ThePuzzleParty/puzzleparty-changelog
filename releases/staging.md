@@ -6,6 +6,13 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## September 2, 2026 — Game identity + party names
+
+- Fresh install, paste a Wordle result: it should land as Wordle. Previously it landed as Mathler, which was a bold reinterpretation.
+- Existing installs get the same fix on first launch: the local games list is purged and rebuilt from the server, so the Mathler impostor cannot recur.
+- On Name Your Party, mash the randomize button. 271 names now, and none should repeat within twenty taps.
+- Submitting names the game instead of numbering it; a game the app knows but the server doesn't now says so plainly rather than failing cryptically.
+
 ## September 2, 2026 — Onboarding fixes
 
 - Sign in with a wrong password; it should now tell you the password is wrong instead of shrugging "Something went wrong".
