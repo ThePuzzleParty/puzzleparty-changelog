@@ -6,6 +6,14 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## September 2, 2026 — Onboarding fixes
+
+- Sign in with a wrong password; it should now tell you the password is wrong instead of shrugging "Something went wrong".
+- Create a party from scratch: you now get to pick your games rather than inheriting ten of them unannounced.
+- On the invite screen, open a friend's three-dot menu; the invite link can be copied or shared again, so losing your clipboard is no longer fatal.
+- Finish all five Getting Started items and let the founding-member celebration land; it should wait to be read rather than vanishing.
+- Sign in as a second account on the same device; Getting Started should no longer tick off things the previous account did.
+
 ## September 1, 2026 — Daily Crossword + test harness
 
 - Share a NYT Daily Crossword, Sunday included; over-hour solves should read 1:13:43, not 73 seconds. Manual entry grew an hours picker.
