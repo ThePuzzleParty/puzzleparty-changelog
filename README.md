@@ -6,13 +6,12 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**September 2, 2026 — Onboarding fixes**
+**September 2, 2026 — Game identity + party names**
 
-- Sign in with a wrong password; it should now tell you the password is wrong instead of shrugging "Something went wrong".
-- Create a party from scratch: you now get to pick your games rather than inheriting ten of them unannounced.
-- On the invite screen, open a friend's three-dot menu; the invite link can be copied or shared again, so losing your clipboard is no longer fatal.
-- Finish all five Getting Started items and let the founding-member celebration land; it should wait to be read rather than vanishing.
-- Sign in as a second account on the same device; Getting Started should no longer tick off things the previous account did.
+- Fresh install, paste a Wordle result: it should land as Wordle. Previously it landed as Mathler, which was a bold reinterpretation.
+- Existing installs get the same fix on first launch: the local games list is purged and rebuilt from the server, so the Mathler impostor cannot recur.
+- On Name Your Party, mash the randomize button. 271 names now, and none should repeat within twenty taps.
+- Submitting names the game instead of numbering it; a game the app knows but the server doesn't now says so plainly rather than failing cryptically.
 
 [All staging releases](releases/staging.md)
 
