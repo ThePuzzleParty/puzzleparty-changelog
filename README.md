@@ -6,12 +6,13 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**September 1, 2026 — Daily Crossword + test harness**
+**September 2, 2026 — Onboarding fixes**
 
-- Share a NYT Daily Crossword, Sunday included; over-hour solves should read 1:13:43, not 73 seconds. Manual entry grew an hours picker.
-- The debug server override is gone; if you had one saved, the app should quietly forget it and stay pointed at staging.
-- Settings can now conjure a filled test account and reset to a fresh run — you should land as somebody new, not half-wiped.
-- Stuck mid-onboarding? The fresh-run chip is reachable there now, without the force-quit pilgrimage back through Home.
+- Sign in with a wrong password; it should now tell you the password is wrong instead of shrugging "Something went wrong".
+- Create a party from scratch: you now get to pick your games rather than inheriting ten of them unannounced.
+- On the invite screen, open a friend's three-dot menu; the invite link can be copied or shared again, so losing your clipboard is no longer fatal.
+- Finish all five Getting Started items and let the founding-member celebration land; it should wait to be read rather than vanishing.
+- Sign in as a second account on the same device; Getting Started should no longer tick off things the previous account did.
 
 [All staging releases](releases/staging.md)
 
@@ -32,7 +33,7 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 Features and fixes in development (not yet released)
 
-**727 total updates**
+**729 total updates**
 
 ## [Production](production/README.md)
 
