@@ -6,12 +6,11 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**September 2, 2026 — Game identity + party names**
+**September 2, 2026 — Today's Lineup + standings rank**
 
-- Fresh install, paste a Wordle result: it should land as Wordle. Previously it landed as Mathler, which was a bold reinterpretation.
-- Existing installs get the same fix on first launch: the local games list is purged and rebuilt from the server, so the Mathler impostor cannot recur.
-- On Name Your Party, mash the randomize button. 271 names now, and none should repeat within twenty taps.
-- Submitting names the game instead of numbering it; a game the app knows but the server doesn't now says so plainly rather than failing cryptically.
+- The dark panel on Home now introduces itself: a small "Today's Lineup" label sits above the count, and the Getting Started guidance points you at it by name instead of waving at "the top of Home".
+- Open a party's per-game standings; the medals now match the server's ranking. Two players a third of a mistake apart should no longer share silver.
+- When a standings list is ordered one way but the stat beside each name suggests another, it now says why rather than leaving you to squint.
 
 [All staging releases](releases/staging.md)
 
@@ -32,7 +31,7 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 Features and fixes in development (not yet released)
 
-**729 total updates**
+**737 total updates**
 
 ## [Production](production/README.md)
 
