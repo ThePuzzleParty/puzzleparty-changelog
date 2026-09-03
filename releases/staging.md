@@ -6,6 +6,16 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## September 3, 2026 — Onboarding batch: welcome screen, games step, missions
+
+- Sign up fresh; the "How did you get here?" screen now looks like a party, with tilted sticker doors and a quick confetti burst.
+- Start a party; the games step lists all 32 puzzles, nothing pre-ticked, and won't let you continue with zero.
+- Getting Started opens with "Pick your avatar"; "First friend joins" is gone and "Check the party feed" replaces reacting.
+- Expand Today's Lineup; the sections read Completed, Still to play for your parties, and Tracking for you, with a flame on streak rows.
+- Paste a result no party plays; you get a "saved to your stats" note instead of a party celebration.
+- Tap the bare invite code on Invite Friends; it copies.
+- Paste a hard-mode Wordle; the feed now says so, and pasted results carry their puzzle number.
+
 ## September 2, 2026 — Today's Lineup + standings rank
 
 - The dark panel on Home now introduces itself: a small "Today's Lineup" label sits above the count, and the Getting Started guidance points you at it by name instead of waving at "the top of Home".
