@@ -6,6 +6,12 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## September 2, 2026 — Today's Lineup + standings rank
+
+- The dark panel on Home now introduces itself: a small "Today's Lineup" label sits above the count, and the Getting Started guidance points you at it by name instead of waving at "the top of Home".
+- Open a party's per-game standings; the medals now match the server's ranking. Two players a third of a mistake apart should no longer share silver.
+- When a standings list is ordered one way but the stat beside each name suggests another, it now says why rather than leaving you to squint.
+
 ## September 2, 2026 — Game identity + party names
 
 - Fresh install, paste a Wordle result: it should land as Wordle. Previously it landed as Mathler, which was a bold reinterpretation.
