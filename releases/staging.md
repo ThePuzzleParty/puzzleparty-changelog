@@ -6,6 +6,13 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## September 4, 2026 — Brand marks: launch screen, app icon, ticket emblem
+
+- Delete the app and reinstall before testing this one: tap the icon and the launch screen should be cream with the app icon, not a white flash. iOS caches the old one, so an upgrade in place will lie to you.
+- Sign in or sign up; the party-hat emoji is gone, replaced by the app icon — the staging icon on staging, so you can tell at a glance which build you are in.
+- On Android, look at the icon on your home screen: it now fills its shape properly instead of being cropped.
+- New account, welcome screen: a blue PuzzleParty ticket now sits above "How did you get here?" where the icon and name used to be.
+
 ## September 3, 2026 — Onboarding batch: welcome screen, games step, missions
 
 - Sign up fresh; the "How did you get here?" screen now looks like a party, with tilted sticker doors and a quick confetti burst.
