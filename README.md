@@ -6,15 +6,12 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**September 3, 2026 — Onboarding batch: welcome screen, games step, missions**
+**September 4, 2026 — Brand marks: launch screen, app icon, ticket emblem**
 
-- Sign up fresh; the "How did you get here?" screen now looks like a party, with tilted sticker doors and a quick confetti burst.
-- Start a party; the games step lists all 32 puzzles, nothing pre-ticked, and won't let you continue with zero.
-- Getting Started opens with "Pick your avatar"; "First friend joins" is gone and "Check the party feed" replaces reacting.
-- Expand Today's Lineup; the sections read Completed, Still to play for your parties, and Tracking for you, with a flame on streak rows.
-- Paste a result no party plays; you get a "saved to your stats" note instead of a party celebration.
-- Tap the bare invite code on Invite Friends; it copies.
-- Paste a hard-mode Wordle; the feed now says so, and pasted results carry their puzzle number.
+- Delete the app and reinstall before testing this one: tap the icon and the launch screen should be cream with the app icon, not a white flash. iOS caches the old one, so an upgrade in place will lie to you.
+- Sign in or sign up; the party-hat emoji is gone, replaced by the app icon — the staging icon on staging, so you can tell at a glance which build you are in.
+- On Android, look at the icon on your home screen: it now fills its shape properly instead of being cropped.
+- New account, welcome screen: a blue PuzzleParty ticket now sits above "How did you get here?" where the icon and name used to be.
 
 [All staging releases](releases/staging.md)
 
