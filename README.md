@@ -6,12 +6,14 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**September 4, 2026 — Brand marks: launch screen, app icon, ticket emblem**
+**September 5, 2026 — Door 3, and one way to make a party**
 
-- Delete the app and reinstall before testing this one: tap the icon and the launch screen should be cream with the app icon, not a white flash. iOS caches the old one, so an upgrade in place will lie to you.
-- Sign in or sign up; the party-hat emoji is gone, replaced by the app icon — the staging icon on staging, so you can tell at a glance which build you are in.
-- On Android, look at the icon on your home screen: it now fills its shape properly instead of being cropped.
-- New account, welcome screen: a blue PuzzleParty ticket now sits above "How did you get here?" where the icon and name used to be.
+- Sign up fresh and pick "Just checking it out": no questions, no games chosen for you, nothing created. You land on Home with the interface intact.
+- Start a party from anywhere — Home, People, the welcome screen — and you get the same guided flow: pick games, name it, choose settings, invite people. The old one-page form is gone.
+- The party is now created at the invite step, so backing out earlier leaves nothing behind.
+- History import is off unless you turn it on. Spoiler Prevention is on, and "What stays hidden?" now explains what actually appears on screen.
+- Try naming a party something you already used. It should stop you, on the name step and when renaming in settings.
+- Getting Started no longer bluffs: rows you can't do yet say what they need instead of quietly opening something else.
 
 [All staging releases](releases/staging.md)
 
@@ -32,7 +34,7 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 Features and fixes in development (not yet released)
 
-**747 total updates**
+**755 total updates**
 
 ## [Production](production/README.md)
 
