@@ -6,14 +6,14 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**September 5, 2026 — Door 3, and one way to make a party**
+**September 6, 2026 — Wizard name-step polish, delete-party confirm**
 
-- Sign up fresh and pick "Just checking it out": no questions, no games chosen for you, nothing created. You land on Home with the interface intact.
-- Start a party from anywhere — Home, People, the welcome screen — and you get the same guided flow: pick games, name it, choose settings, invite people. The old one-page form is gone.
-- The party is now created at the invite step, so backing out earlier leaves nothing behind.
-- History import is off unless you turn it on. Spoiler Prevention is on, and "What stays hidden?" now explains what actually appears on screen.
-- Try naming a party something you already used. It should stop you, on the name step and when renaming in settings.
-- Getting Started no longer bluffs: rows you can't do yet say what they need instead of quietly opening something else.
+- Create a party. The games list should start with nothing ticked, even if you picked games last time.
+- On Name Your Party, tap a group chip and a name drops in. Roll for a different one below the chips; the dice should spin, and the name should change on the first frame, not after.
+- Roll before picking a group: the button should be disabled. Clear the name with the X; tap the same chip again and a name should come back.
+- Delete a party from its settings. After "Are you sure?", you now type the party name before Delete forever lights up. Home should update without a manual refresh.
+- Open a party. Its icon, theme and character should stay put instead of blanking.
+- Assorted housekeeping; if you can see it, it's a bug.
 
 [All staging releases](releases/staging.md)
 
