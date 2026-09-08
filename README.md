@@ -20,14 +20,15 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Production Release
 
-**August 24, 2026 — Clipboard auto-submit & credits**
+**September 8, 2026 — Apple resubmission build**
 
-- Tap + with a result on your clipboard and it submits itself. iOS will ask permission once, politely.
-- Joining a party from an invite link now drops you back at Home, where your new party actually is.
-- The invite share sheet shows up on iOS again, which helps.
-- Linking a computer: clearer steps, auto-formatted codes, and a fixed paste quirk.
-- Avatar packs are now all laid out to browse — no more digging.
-- New Credits screen in Settings, for the curious.
+- New welcome flow: three doors in, a fifteen-second party wizard, a Getting Started list that starts from zero.
+- Invite friends by name, phone, or email. No contacts permission required.
+- NYT Daily Crossword joins the lineup.
+- Tap any game in Today's Lineup for its detail sheet.
+- The Store grew up: honest prices, renewal terms, a close button, no database-speak.
+- iPad layouts stop stretching to the horizon; small grey labels are legible again.
+- Streak badges on the home hero.
 
 [All production releases](releases/production.md)
 
