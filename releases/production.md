@@ -13,8 +13,8 @@ What's new in each production release, newest first. Entries are added automatic
 - NYT Daily Crossword joins the lineup.
 - Tap any game in Today's Lineup for its detail sheet.
 - The Store grew up: honest prices, renewal terms, a close button, no database-speak.
-- iPad layouts stop stretching to the horizon; tiny grey labels are legible again.
-- Streak badges on the home hero. Fresh launch screen.
+- iPad layouts stop stretching to the horizon; small grey labels are legible again.
+- Streak badges on the home hero.
 
 ## August 24, 2026 — Clipboard auto-submit & credits
 
