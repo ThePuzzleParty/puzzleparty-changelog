@@ -6,6 +6,16 @@ What's new in each production release, newest first. Entries are added automatic
 
 ---
 
+## September 8, 2026 — Apple resubmission build
+
+- New welcome flow: three doors in, a fifteen-second party wizard, a Getting Started list that starts from zero.
+- Invite friends by name, phone, or email. No contacts permission required.
+- NYT Daily Crossword joins the lineup.
+- Tap any game in Today's Lineup for its detail sheet.
+- The Store grew up: honest prices, renewal terms, a close button, and no database-speak.
+- iPad layouts stop stretching to the horizon; tiny grey labels are legible again.
+- Streak badges on the home hero and a fresh launch screen.
+
 ## August 24, 2026 — Clipboard auto-submit & credits
 
 - Tap + with a result on your clipboard and it submits itself. iOS will ask permission once, politely.
