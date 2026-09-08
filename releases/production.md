@@ -12,9 +12,9 @@ What's new in each production release, newest first. Entries are added automatic
 - Invite friends by name, phone, or email. No contacts permission required.
 - NYT Daily Crossword joins the lineup.
 - Tap any game in Today's Lineup for its detail sheet.
-- The Store grew up: honest prices, renewal terms, a close button, and no database-speak.
+- The Store grew up: honest prices, renewal terms, a close button, no database-speak.
 - iPad layouts stop stretching to the horizon; tiny grey labels are legible again.
-- Streak badges on the home hero and a fresh launch screen.
+- Streak badges on the home hero. Fresh launch screen.
 
 ## August 24, 2026 — Clipboard auto-submit & credits
 
