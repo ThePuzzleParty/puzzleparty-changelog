@@ -16,15 +16,11 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Production Release
 
-**September 8, 2026 — Apple resubmission build**
+**September 8, 2026 (evening) — Getting Started fix + tip names**
 
-- New welcome flow: three doors in, a fifteen-second party wizard, a Getting Started list that starts from zero.
-- Invite friends by name, phone, or email. No contacts permission required.
-- NYT Daily Crossword joins the lineup.
-- Tap any game in Today's Lineup for its detail sheet.
-- The Store grew up: honest prices, renewal terms, a close button, no database-speak.
-- iPad layouts stop stretching to the horizon; small grey labels are legible again.
-- Streak badges on the home hero.
+- The Getting Started checklist no longer greets veterans as if they were new. If it appeared on you today, it will show itself out.
+- Tip Jar tiers are named by the server now, so the app and the store agree.
+- In Today's Lineup, the "playing in" rows open the party feed instead of party settings.
 
 [All production releases](releases/production.md)
 
