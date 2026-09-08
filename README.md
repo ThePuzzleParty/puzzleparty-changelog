@@ -6,13 +6,14 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**September 6, 2026 — Wizard name-step polish, delete-party confirm**
+**September 8, 2026 — Apple resubmission fixes + lineup sheet**
 
-- Create a party. The games list should start with nothing ticked, even if you picked games last time.
-- On Name Your Party, tap a group chip and a name drops in. Roll for a different one below the chips; the dice should spin, and the name should change on the first frame, not after.
-- Roll before picking a group: the button should be disabled. Clear the name with the X; tap the same chip again and a name should come back.
-- Delete a party from its settings. After "Are you sure?", you now type the party name before Delete forever lights up. Home should update without a manual refresh.
-- Open a party. Its icon, theme and character should stay put instead of blanking.
+- Open Settings; the Redeem Code row is gone, and no promo-code prompt survives anywhere in the app.
+- On the Store, Subscribe is disabled with an "App Store price unavailable" note whenever the store can't load prices, instead of tapping into silence. Once products load, the price, a renewal disclosure, and Terms/Privacy links appear under the plan.
+- The paywall's perks list reads like English now, not database column names.
+- On an iPad, Store, Settings, Help, and Games sit in a centered column instead of stretching wall to wall; chat bubbles stop at a sane width.
+- Tiny grey labels in the Games tab grew up to 11pt; squint less.
+- Tap a row in Today's Lineup to open the game's detail sheet, with Remove and Undo.
 - Assorted housekeeping; if you can see it, it's a bug.
 
 [All staging releases](releases/staging.md)
