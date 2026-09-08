@@ -6,6 +6,16 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## September 8, 2026 — Apple resubmission fixes + lineup sheet
+
+- Open Settings; the Redeem Code row is gone, and no promo-code prompt survives anywhere in the app.
+- On the Store, Subscribe is disabled with an "App Store price unavailable" note whenever the store can't load prices, instead of tapping into silence. Once products load, the price, a renewal disclosure, and Terms/Privacy links appear under the plan.
+- The paywall's perks list reads like English now, not database column names.
+- On an iPad, Store, Settings, Help, and Games sit in a centered column instead of stretching wall to wall; chat bubbles stop at a sane width.
+- Tiny grey labels in the Games tab grew up to 11pt; squint less.
+- Tap a row in Today's Lineup to open the game's detail sheet, with Remove and Undo.
+- Assorted housekeeping; if you can see it, it's a bug.
+
 ## September 6, 2026 — Wizard name-step polish, delete-party confirm
 
 - Create a party. The games list should start with nothing ticked, even if you picked games last time.
