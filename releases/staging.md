@@ -6,6 +6,12 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## September 8, 2026 — Lineup feed target, tip names, Getting Started fix
+
+- In Today's Lineup, tap a game, then a party under PLAYING IN; you should land in that party's feed, not its details page, and the party's unread badge should clear.
+- Open the Store tip jar; the first two tiers now read Party Starter and Party VIP, matching the receipt and the thank-you email for once.
+- Sign in on a fresh install with an established account; the Getting Started card should stay away rather than greeting you like a newcomer.
+
 ## September 8, 2026 — Apple resubmission fixes + lineup sheet
 
 - Open Settings; the Redeem Code row is gone, and no promo-code prompt survives anywhere in the app.
