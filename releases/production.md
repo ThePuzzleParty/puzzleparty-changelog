@@ -6,6 +6,12 @@ What's new in each production release, newest first. Entries are added automatic
 
 ---
 
+## September 8, 2026 (evening) — Getting Started fix + tip names
+
+- The Getting Started checklist no longer greets veterans as if they were new. If it appeared on you today, it will show itself out.
+- Tip Jar tiers are named by the server now, so the app and the store agree.
+- In Today's Lineup, the "playing in" rows open the party feed instead of party settings.
+
 ## September 8, 2026 — Apple resubmission build
 
 - New welcome flow: three doors in, a fifteen-second party wizard, a Getting Started list that starts from zero.
