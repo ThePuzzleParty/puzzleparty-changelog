@@ -6,6 +6,12 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## September 10, 2026 — Lineup row refinement
+
+- Today's Lineup rows lose the grey checkbox; game names get the full width, and the play / enter buttons sit bottom-right. Long names should no longer trim at normal text sizes.
+- Completed rows wear a wider green edge, a faint green tint and a green "done" time. Quietly obvious.
+- The rollover chip is now just a clock and a time: amber all day, filled amber inside the hour, red in the last 15 minutes. The streak flame stays visible beside it.
+
 ## September 10, 2026 — Two-line lineup rows
 
 - Open Today's Lineup: every row is now the same height, name on top, chip / streak / "done" time underneath. No more game names wrapping one letter per line beside a Closes chip.
