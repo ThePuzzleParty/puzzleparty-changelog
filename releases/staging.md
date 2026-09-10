@@ -6,6 +6,12 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## September 10, 2026 — Two-line lineup rows
+
+- Open Today's Lineup: every row is now the same height, name on top, chip / streak / "done" time underneath. No more game names wrapping one letter per line beside a Closes chip.
+- Completed rows match the rest, with the result on the second line.
+- Crank text size up in Settings; rows stay uniform, and only the very longest names trim.
+
 ## September 10, 2026 — Rollover chip + Everyone today
 
 - With the Mini unplayed, open Today's Lineup: games that roll over before your midnight get a "Closes 7pm" chip that counts down inside the last hour and turns past-tense after.
