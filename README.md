@@ -6,11 +6,11 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**September 10, 2026 — Two-line lineup rows**
+**September 10, 2026 — Lineup row refinement**
 
-- Open Today's Lineup: every row is now the same height, name on top, chip / streak / "done" time underneath. No more game names wrapping one letter per line beside a Closes chip.
-- Completed rows match the rest, with the result on the second line.
-- Crank text size up in Settings; rows stay uniform, and only the very longest names trim.
+- Today's Lineup rows lose the grey checkbox; game names get the full width, and the play / enter buttons sit bottom-right. Long names should no longer trim at normal text sizes.
+- Completed rows wear a wider green edge, a faint green tint and a green "done" time. Quietly obvious.
+- The rollover chip is now just a clock and a time: amber all day, filled amber inside the hour, red in the last 15 minutes. The streak flame stays visible beside it.
 
 [All staging releases](releases/staging.md)
 
