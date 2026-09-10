@@ -6,13 +6,11 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**September 10, 2026 — Rollover chip + Everyone today**
+**September 10, 2026 — Two-line lineup rows**
 
-- With the Mini unplayed, open Today's Lineup: games that roll over before your midnight get a "Closes 7pm" chip that counts down inside the last hour and turns past-tense after.
-- The collapsed lineup card names the next early game; the game sheet spells it out and, after rollover, offers Open archive where one exists.
-- Settings > Notifications gains Closing-soon reminders. Leave it on; an hour before an unplayed early game closes, expect a nudge that lands on Home with the lineup open.
-- Plus: on a completed game's sheet, Everyone today shows the cross-party spread. Free accounts get the upsell.
-- Games tab reset times are now honest for 14 games. LinkedIn is midnight Pacific; Mathler is your midnight.
+- Open Today's Lineup: every row is now the same height, name on top, chip / streak / "done" time underneath. No more game names wrapping one letter per line beside a Closes chip.
+- Completed rows match the rest, with the result on the second line.
+- Crank text size up in Settings; rows stay uniform, and only the very longest names trim.
 
 [All staging releases](releases/staging.md)
 
