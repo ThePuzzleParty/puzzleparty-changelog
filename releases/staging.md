@@ -6,6 +6,14 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## September 10, 2026 — Rollover chip + Everyone today
+
+- With the Mini unplayed, open Today's Lineup: games that roll over before your midnight get a "Closes 7pm" chip that counts down inside the last hour and turns past-tense after.
+- The collapsed lineup card names the next early game; the game sheet spells it out and, after rollover, offers Open archive where one exists.
+- Settings > Notifications gains Closing-soon reminders. Leave it on; an hour before an unplayed early game closes, expect a nudge that lands on Home with the lineup open.
+- Plus: on a completed game's sheet, Everyone today shows the cross-party spread. Free accounts get the upsell.
+- Games tab reset times are now honest for 14 games. LinkedIn is midnight Pacific; Mathler is your midnight.
+
 ## September 8, 2026 — Lineup feed target, tip names, Getting Started fix
 
 - In Today's Lineup, tap a game, then a party under PLAYING IN; you should land in that party's feed, not its details page, and the party's unread badge should clear.
