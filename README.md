@@ -6,11 +6,10 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**September 10, 2026 — Lineup row refinement**
+**September 11, 2026 — Wordle parity fixtures**
 
-- Today's Lineup rows lose the grey checkbox; game names get the full width, and the play / enter buttons sit bottom-right. Long names should no longer trim at normal text sizes.
-- Completed rows wear a wider green edge, a faint green tint and a green "done" time. Quietly obvious.
-- The rollover chip is now just a clock and a time: amber all day, filled amber inside the hour, red in the last 15 minutes. The streak flame stays visible beside it.
+- Share a Wordle played from the NYT archive (the one with the "Archive September 10, 2026" line on top) via the share sheet; it should land as a normal entry instead of "Unable to parse". Same for a "5-for-5 Challenge Complete" share. The fix is server-side, so this is a retest against staging rather than new app code.
+- Otherwise assorted housekeeping (test fixtures only); if you can see it, it's a bug.
 
 [All staging releases](releases/staging.md)
 
