@@ -6,6 +6,11 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## September 11, 2026 — Wordle parity fixtures
+
+- Share a Wordle played from the NYT archive (the one with the "Archive September 10, 2026" line on top) via the share sheet; it should land as a normal entry instead of "Unable to parse". Same for a "5-for-5 Challenge Complete" share. The fix is server-side, so this is a retest against staging rather than new app code.
+- Otherwise assorted housekeeping (test fixtures only); if you can see it, it's a bug.
+
 ## September 10, 2026 — Lineup row refinement
 
 - Today's Lineup rows lose the grey checkbox; game names get the full width, and the play / enter buttons sit bottom-right. Long names should no longer trim at normal text sizes.
