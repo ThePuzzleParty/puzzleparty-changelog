@@ -6,6 +6,13 @@ What's new in each production release, newest first. Entries are added automatic
 
 ---
 
+## September 15, 2026 — Everyone Today, lineup rows, wizard funnel
+
+- Everyone Today: a Plus view of how everyone you play with fared across all your parties, one tap from today's lineup.
+- Today's Lineup rows got a tidy-up: two clean lines, buttons where your thumb already is, and a clock chip that turns amber, then red, as a puzzle nears rollover.
+- Time zone heads-up: an optional nudge an hour before a puzzle closes ahead of your own midnight. Lives under Notifications.
+- Assorted polish. Fewer game names wrapping one letter per line.
+
 ## September 8, 2026 (evening) — Getting Started fix + tip names
 
 - The Getting Started checklist no longer greets veterans as if they were new. If it appeared on you today, it will show itself out.
