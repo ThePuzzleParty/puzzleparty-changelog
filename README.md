@@ -17,11 +17,12 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Production Release
 
-**September 8, 2026 (evening) — Getting Started fix + tip names**
+**September 15, 2026 — Everyone Today, lineup rows, wizard funnel**
 
-- The Getting Started checklist no longer greets veterans as if they were new. If it appeared on you today, it will show itself out.
-- Tip Jar tiers are named by the server now, so the app and the store agree.
-- In Today's Lineup, the "playing in" rows open the party feed instead of party settings.
+- Everyone Today: a Plus view of how everyone you play with fared across all your parties, one tap from today's lineup.
+- Today's Lineup rows got a tidy-up: two clean lines, buttons where your thumb already is, and a clock chip that turns amber, then red, as a puzzle nears rollover.
+- Time zone heads-up: an optional nudge an hour before a puzzle closes ahead of your own midnight. Lives under Notifications.
+- Assorted polish. Fewer game names wrapping one letter per line.
 
 [All production releases](releases/production.md)
 
