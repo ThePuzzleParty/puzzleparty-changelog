@@ -6,6 +6,13 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## September 16, 2026 — Welcome walkthrough
+
+- Sign up and pick "Just checking it out", or tap Help: you get a four-card walkthrough instead of the scripted Welcome Party, which has left the building.
+- Swipe through it, tap the page dots, try Skip, and use the system back gesture on each card; card 4 should offer "Add my first result" or "I'll look around first".
+- The cards now carry real in-app screenshots rather than labelled grey rectangles.
+- On an account with no results yet, the Getting Started card shrinks to one numbered step with an "Add a result" button and a "Then:" line; log a result and the full checklist returns.
+
 ## September 15, 2026 — Everyone Today naming, wizard funnel
 
 - Open a game's detail sheet from Today's Lineup, or the cross-party summary sheet; the row label and subtitle now read "Everyone Today", capitalised like a feature that has earned a name.
