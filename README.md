@@ -6,10 +6,12 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**September 11, 2026 — Wordle parity fixtures**
+**September 15, 2026 — Everyone Today naming, wizard funnel**
 
-- Share a Wordle played from the NYT archive (the one with the "Archive September 10, 2026" line on top) via the share sheet; it should land as a normal entry instead of "Unable to parse". Same for a "5-for-5 Challenge Complete" share. The fix is server-side, so this is a retest against staging rather than new app code.
-- Otherwise assorted housekeeping (test fixtures only); if you can see it, it's a bug.
+- Open a game's detail sheet from Today's Lineup, or the cross-party summary sheet; the row label and subtitle now read "Everyone Today", capitalised like a feature that has earned a name.
+- Settings, Notifications: "Closing-soon reminders" is now "Time zone heads-up". Same switch, same hour-before nudge, less nagging in the title.
+- Create a party from anywhere (welcome, Home, People, share dialog, invite link) and try the system back gesture while it is saving; it should be politely ignored until the save lands. Everything else about the wizard should look exactly as before.
+- Assorted housekeeping (funnel analytics); if you can see it, it's a bug.
 
 [All staging releases](releases/staging.md)
 
@@ -27,11 +29,11 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 Features and fixes in development (not yet released)
 
-**775 total updates**
+**776 total updates**
 
 ## [Production](production/README.md)
 
 Released features and fixes
 
-**432 total updates**
+**433 total updates**
 
