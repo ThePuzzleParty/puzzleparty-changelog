@@ -6,12 +6,12 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**September 15, 2026 — Everyone Today naming, wizard funnel**
+**September 16, 2026 — Welcome walkthrough**
 
-- Open a game's detail sheet from Today's Lineup, or the cross-party summary sheet; the row label and subtitle now read "Everyone Today", capitalised like a feature that has earned a name.
-- Settings, Notifications: "Closing-soon reminders" is now "Time zone heads-up". Same switch, same hour-before nudge, less nagging in the title.
-- Create a party from anywhere (welcome, Home, People, share dialog, invite link) and try the system back gesture while it is saving; it should be politely ignored until the save lands. Everything else about the wizard should look exactly as before.
-- Assorted housekeeping (funnel analytics); if you can see it, it's a bug.
+- Sign up and pick "Just checking it out", or tap Help: you get a four-card walkthrough instead of the scripted Welcome Party, which has left the building.
+- Swipe through it, tap the page dots, try Skip, and use the system back gesture on each card; card 4 should offer "Add my first result" or "I'll look around first".
+- The cards now carry real in-app screenshots rather than labelled grey rectangles.
+- On an account with no results yet, the Getting Started card shrinks to one numbered step with an "Add a result" button and a "Then:" line; log a result and the full checklist returns.
 
 [All staging releases](releases/staging.md)
 
