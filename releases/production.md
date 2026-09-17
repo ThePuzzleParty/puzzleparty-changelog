@@ -6,6 +6,12 @@ What's new in each production release, newest first. Entries are added automatic
 
 ---
 
+## September 17, 2026 — A guide, at last
+
+- There is now a proper guide at puzzleparty.app/guide, for anyone who has been working the app out by instinct. Start to finish, including the bits nobody asks about until they need them.
+- The FAQ finally mentions the iOS setting that stops it asking permission to paste every single time. It turns up on its own schedule; Apple's, not ours.
+- Late submissions now follow your party's setting instead of quietly allowing everything.
+
 ## September 15, 2026 — Everyone Today, lineup rows, wizard funnel
 
 - Everyone Today: a Plus view of how everyone you play with fared across all your parties, one tap from today's lineup.
