@@ -17,12 +17,11 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Production Release
 
-**September 15, 2026 — Everyone Today, lineup rows, wizard funnel**
+**September 17, 2026 — A guide, at last**
 
-- Everyone Today: a Plus view of how everyone you play with fared across all your parties, one tap from today's lineup.
-- Today's Lineup rows got a tidy-up: two clean lines, buttons where your thumb already is, and a clock chip that turns amber, then red, as a puzzle nears rollover.
-- Time zone heads-up: an optional nudge an hour before a puzzle closes ahead of your own midnight. Lives under Notifications.
-- Assorted polish. Fewer game names wrapping one letter per line.
+- There is now a proper guide at puzzleparty.app/guide, for anyone who has been working the app out by instinct. Start to finish, including the bits nobody asks about until they need them.
+- The FAQ finally mentions the iOS setting that stops it asking permission to paste every single time. It turns up on its own schedule; Apple's, not ours.
+- Late submissions now follow your party's setting instead of quietly allowing everything.
 
 [All production releases](releases/production.md)
 
