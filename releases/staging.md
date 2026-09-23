@@ -6,6 +6,14 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## September 23, 2026 — Timezone, Dot unread, late submissions
+
+- Watch the Home wordmark settle; "party" should stay visible instead of quietly excusing itself.
+- Help now has a "The full guide" row that opens the web guide in your browser.
+- Create a party with a late-submission option; party details should show what you picked, not a blanket "Not Allowed".
+- Change your phone's time zone and reopen the app; standings and "today" should follow you.
+- Dot chatting in a party no longer bumps your unread count or app badge. Actual humans still do.
+
 ## September 16, 2026 — Welcome walkthrough
 
 - Sign up and pick "Just checking it out", or tap Help: you get a four-card walkthrough instead of the scripted Welcome Party, which has left the building.
