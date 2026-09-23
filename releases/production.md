@@ -6,6 +6,15 @@ What's new in each production release, newest first. Entries are added automatic
 
 ---
 
+## September 23, 2026 — Walkthrough, timezone, Dot unread
+
+- New here? A short walkthrough now shows you around, and Getting Started boils down to one step: add a result.
+- Change time zones and the app notices; "today" and party standings follow you.
+- Dot's chatter no longer inflates your unread count or app badge. Your friends still count.
+- Party details now show the late-submission setting you actually chose.
+- Help links to the full guide on the web.
+- The Home logo keeps its "party" visible, as a party app should.
+
 ## September 17, 2026 — A guide, at last
 
 - There is now a proper guide at puzzleparty.app/guide, for anyone who has been working the app out by instinct. Start to finish, including the bits nobody asks about until they need them.
