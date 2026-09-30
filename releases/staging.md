@@ -6,6 +6,14 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## September 30, 2026 — Push token + provisional
+
+- New iPhone install: no notification popup on first launch, yet notifications should still arrive, quietly, in Notification Center. The popup still turns up on a later launch; that is the next phase's business.
+- Settings > Notifications on that install should say On, "Delivered quietly", with a banners-and-sounds button that asks iOS instead of exiling you to Settings.
+- Android 13+, never answered the prompt: the Notifications toggle now just asks.
+- Sign out and have a friend DM you. Silence is correct. Sign in as someone else without closing the app; only their notifications should follow.
+- Assorted plumbing so new accounts are reachable; if you can see it, it's a bug.
+
 ## September 23, 2026 — Timezone, Dot unread, late submissions
 
 - Watch the Home wordmark settle; "party" should stay visible instead of quietly excusing itself.
