@@ -6,6 +6,11 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## October 1, 2026 — Version 1.0.1
+
+- Share a result into PuzzleParty from Safari or a game's share sheet; the share extension got new build settings and should still appear and submit as if nothing happened.
+- The app now answers to 1.0.1. That is the whole release: the App Store declined to accept a second 1.0.0.
+
 ## October 1, 2026 — Push priming, Color Daily
 
 - Fresh install: neither iOS nor Android should pop its notification prompt on its own. Our sheet asks instead, after you post a result, create a party, share an invite, or join one.
