@@ -6,13 +6,10 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**October 1, 2026 — Push priming, Color Daily**
+**October 1, 2026 — Version 1.0.1**
 
-- Fresh install: neither iOS nor Android should pop its notification prompt on its own. Our sheet asks instead, after you post a result, create a party, share an invite, or join one.
-- Join a party by invite link; the sheet should ask about that party by name.
-- "Not now" buys three days of peace, and three refusals end the asking. Only "Turn on notifications" (or the Settings toggle) summons the OS dialog.
-- Share a Dialed result, now headed "Color Daily"; it should score again instead of being politely ignored.
-- Assorted housekeeping; if you can see it, it's a bug.
+- Share a result into PuzzleParty from Safari or a game's share sheet; the share extension got new build settings and should still appear and submit as if nothing happened.
+- The app now answers to 1.0.1. That is the whole release: the App Store declined to accept a second 1.0.0.
 
 [All staging releases](releases/staging.md)
 
