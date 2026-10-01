@@ -18,14 +18,13 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Production Release
 
-**September 23, 2026 — Walkthrough, timezone, Dot unread**
+**October 1, 2026 — Push priming, Color Daily**
 
-- New here? A short walkthrough now shows you around, and Getting Started boils down to one step: add a result.
-- Change time zones and the app notices; "today" and party standings follow you.
-- Dot's chatter no longer inflates your unread count or app badge. Your friends still count.
-- Party details now show the late-submission setting you actually chose.
-- Help links to the full guide on the web.
-- The Home logo keeps its "party" visible, as a party app should.
+- Dialed's Color Daily results score again. It changed its name; we eventually noticed.
+- We ask about notifications at a sensible moment, like after you join a party, instead of ambushing you at launch.
+- New iPhone installs get quiet notifications in Notification Center until you decide otherwise.
+- Reminders now reach new players, and signing out stops them, as one would hope.
+- The Settings notifications toggle now tells the truth.
 
 [All production releases](releases/production.md)
 
