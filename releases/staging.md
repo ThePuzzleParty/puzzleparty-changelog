@@ -6,6 +6,14 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## October 1, 2026 — Push priming, Color Daily
+
+- Fresh install: neither iOS nor Android should pop its notification prompt on its own. Our sheet asks instead, after you post a result, create a party, share an invite, or join one.
+- Join a party by invite link; the sheet should ask about that party by name.
+- "Not now" buys three days of peace, and three refusals end the asking. Only "Turn on notifications" (or the Settings toggle) summons the OS dialog.
+- Share a Dialed result, now headed "Color Daily"; it should score again instead of being politely ignored.
+- Assorted housekeeping; if you can see it, it's a bug.
+
 ## September 30, 2026 — Push token + provisional
 
 - New iPhone install: no notification popup on first launch, yet notifications should still arrive, quietly, in Notification Center. The popup still turns up on a later launch; that is the next phase's business.
