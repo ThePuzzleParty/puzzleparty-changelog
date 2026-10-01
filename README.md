@@ -6,13 +6,13 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**September 30, 2026 — Push token + provisional**
+**October 1, 2026 — Push priming, Color Daily**
 
-- New iPhone install: no notification popup on first launch, yet notifications should still arrive, quietly, in Notification Center. The popup still turns up on a later launch; that is the next phase's business.
-- Settings > Notifications on that install should say On, "Delivered quietly", with a banners-and-sounds button that asks iOS instead of exiling you to Settings.
-- Android 13+, never answered the prompt: the Notifications toggle now just asks.
-- Sign out and have a friend DM you. Silence is correct. Sign in as someone else without closing the app; only their notifications should follow.
-- Assorted plumbing so new accounts are reachable; if you can see it, it's a bug.
+- Fresh install: neither iOS nor Android should pop its notification prompt on its own. Our sheet asks instead, after you post a result, create a party, share an invite, or join one.
+- Join a party by invite link; the sheet should ask about that party by name.
+- "Not now" buys three days of peace, and three refusals end the asking. Only "Turn on notifications" (or the Settings toggle) summons the OS dialog.
+- Share a Dialed result, now headed "Color Daily"; it should score again instead of being politely ignored.
+- Assorted housekeeping; if you can see it, it's a bug.
 
 [All staging releases](releases/staging.md)
 
