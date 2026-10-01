@@ -6,6 +6,14 @@ What's new in each production release, newest first. Entries are added automatic
 
 ---
 
+## October 1, 2026 — Push priming, Color Daily
+
+- Dialed's Color Daily results score again. It changed its name; we eventually noticed.
+- We ask about notifications at a sensible moment, like after you join a party, instead of ambushing you at launch.
+- New iPhone installs get quiet notifications in Notification Center until you decide otherwise.
+- Reminders now reach new players, and signing out stops them, as one would hope.
+- The Settings notifications toggle now tells the truth.
+
 ## September 23, 2026 — Walkthrough, timezone, Dot unread
 
 - New here? A short walkthrough now shows you around, and Getting Started boils down to one step: add a result.
