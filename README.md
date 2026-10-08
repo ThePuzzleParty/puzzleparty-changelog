@@ -6,10 +6,15 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**October 1, 2026 — Version 1.0.1**
+**October 8, 2026 — Party Animal, Plus gates, sync fixes**
 
-- Share a result into PuzzleParty from Safari or a game's share sheet; the share extension got new build settings and should still appear and submit as if nothing happened.
-- The app now answers to 1.0.1. That is the whole release: the App Store declined to accept a second 1.0.0.
+- With Spoiler Prevention on, the mascot's reactions to someone's result stay hidden until you've played that game.
+- The mascot's profile, avatar and settings should look as before; it's data-driven now, so any change is a bug.
+- Have someone join or leave while you're in party chat; the member count and avatars should update on their own.
+- Party Details lists Mini, Midi and Daily Crossword as separate rows, each keeping its Timed chip after a sync.
+- Sign out of a Plus account and into a free one; no borrowed Plus perks.
+- As a free user, Full stats from the lineup or stats hub should offer Plus, not "Failed to load game stats."
+- Assorted housekeeping; if you can see it, it's a bug.
 
 [All staging releases](releases/staging.md)
 
