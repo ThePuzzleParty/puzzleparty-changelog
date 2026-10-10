@@ -6,6 +6,13 @@ What's new in each production release, newest first. Entries are added automatic
 
 ---
 
+## October 10, 2026 — version 1.0.2, Party Animal groundwork
+
+- With Spoiler Prevention on, the Party Animal keeps its reactions to a friend's result to itself until you've played too.
+- Party chat notices when someone joins or leaves, no refresh required.
+- Party Details lists every game on its own row, and they stay put after a sync.
+- Switching accounts no longer lets the previous one's settings tag along.
+
 ## October 1, 2026 — Push priming, Color Daily
 
 - Dialed's Color Daily results score again. It changed its name; we eventually noticed.
