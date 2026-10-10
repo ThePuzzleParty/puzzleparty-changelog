@@ -14,13 +14,12 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Production Release
 
-**October 1, 2026 — Push priming, Color Daily**
+**October 10, 2026 — version 1.0.2, Party Animal groundwork**
 
-- Dialed's Color Daily results score again. It changed its name; we eventually noticed.
-- We ask about notifications at a sensible moment, like after you join a party, instead of ambushing you at launch.
-- New iPhone installs get quiet notifications in Notification Center until you decide otherwise.
-- Reminders now reach new players, and signing out stops them, as one would hope.
-- The Settings notifications toggle now tells the truth.
+- With Spoiler Prevention on, the Party Animal keeps its reactions to a friend's result to itself until you've played too.
+- Party chat notices when someone joins or leaves, no refresh required.
+- Party Details lists every game on its own row, and they stay put after a sync.
+- Switching accounts no longer lets the previous one's settings tag along.
 
 [All production releases](releases/production.md)
 
