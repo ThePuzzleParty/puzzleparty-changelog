@@ -6,6 +6,10 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## October 10, 2026 — version 1.0.2
+
+- Open Settings and look for version 1.0.2. That is the whole release; Apple wanted a bigger number before taking another build.
+
 ## October 8, 2026 — Party Animal, Plus gates, sync fixes
 
 - With Spoiler Prevention on, the mascot's reactions to someone's result stay hidden until you've played that game.
