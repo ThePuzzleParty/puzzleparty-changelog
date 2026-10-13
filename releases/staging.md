@@ -6,6 +6,12 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## October 12, 2026 — 1.1.0, submit labels
+
+- Open the paste box, manual entry or the iOS share sheet: the button no longer says Submit. Each open deals a different party-flavored label, with no repeats until the deck runs out.
+- Send a result from the paste box or share sheet; a matching "sending" line appears while it works. If it fails, the button keeps its label.
+- Settings now reads 1.1.0. Same app, bigger number.
+
 ## October 10, 2026 — version 1.0.2
 
 - Open Settings and look for version 1.0.2. That is the whole release; Apple wanted a bigger number before taking another build.
