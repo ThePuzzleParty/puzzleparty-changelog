@@ -6,9 +6,11 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**October 10, 2026 — version 1.0.2**
+**October 12, 2026 — 1.1.0, submit labels**
 
-- Open Settings and look for version 1.0.2. That is the whole release; Apple wanted a bigger number before taking another build.
+- Open the paste box, manual entry or the iOS share sheet: the button no longer says Submit. Each open deals a different party-flavored label, with no repeats until the deck runs out.
+- Send a result from the paste box or share sheet; a matching "sending" line appears while it works. If it fails, the button keeps its label.
+- Settings now reads 1.1.0. Same app, bigger number.
 
 [All staging releases](releases/staging.md)
 
