@@ -16,12 +16,10 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Production Release
 
-**October 10, 2026 — version 1.0.2, Party Animal groundwork**
+**October 15, 2026 — Meet Quirk**
 
-- With Spoiler Prevention on, the Party Animal keeps its reactions to a friend's result to itself until you've played too.
-- Party chat notices when someone joins or leaves, no refresh required.
-- Party Details lists every game on its own row, and they stay put after a sync.
-- Switching accounts no longer lets the previous one's settings tag along.
+- Meet Quirk, our Party Animal. Same face, new name, same unreasonable enthusiasm for your solves.
+- Quick Paste on the web stopped saying "Submit". Each visit deals a party-flavored label instead.
 
 [All production releases](releases/production.md)
 
@@ -35,5 +33,5 @@ Features and fixes in development (not yet released)
 
 Released features and fixes
 
-**454 total updates**
+**455 total updates**
 
