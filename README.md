@@ -15,10 +15,11 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Production Release
 
-**October 15, 2026 — Meet Quirk**
+**October 15, 2026 — 1.1.0, submit labels**
 
-- Meet Quirk, our Party Animal. Same face, new name, same unreasonable enthusiasm for your solves.
-- Quick Paste on the web stopped saying "Submit". Each visit deals a party-flavored label instead.
+- The submit button no longer says Submit. Each result now leaves with a party-flavored send-off, on the paste box, manual entry and the share sheet.
+- The "Tap and hold to react" hint finally takes the hint: one touch and it's gone for good.
+- Leave a party and you land back on Home, with that party already off your list.
 
 [All production releases](releases/production.md)
 
