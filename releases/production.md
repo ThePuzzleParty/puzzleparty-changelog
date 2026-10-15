@@ -6,6 +6,12 @@ What's new in each production release, newest first. Entries are added automatic
 
 ---
 
+## October 15, 2026 — 1.1.0, submit labels
+
+- The submit button no longer says Submit. Each result now leaves with a party-flavored send-off, on the paste box, manual entry and the share sheet.
+- The "Tap and hold to react" hint finally takes the hint: one touch and it's gone for good.
+- Leave a party and you land back on Home, with that party already off your list.
+
 ## October 15, 2026 — Meet Quirk
 
 - Meet Quirk, our Party Animal. Same face, new name, same unreasonable enthusiasm for your solves.
