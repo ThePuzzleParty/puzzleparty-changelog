@@ -6,6 +6,11 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## October 15, 2026 — coach mark, leave party
+
+- Open a party feed: the "Tap and hold to react" hint should sit in plain view above the newest message, then vanish for good on your first touch anywhere.
+- Leave a party you don't host. You should land on Home with that party already gone from the list, not stranded in the feed you just quit.
+
 ## October 12, 2026 — 1.1.0, submit labels
 
 - Open the paste box, manual entry or the iOS share sheet: the button no longer says Submit. Each open deals a different party-flavored label, with no repeats until the deck runs out.
