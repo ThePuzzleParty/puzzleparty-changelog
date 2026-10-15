@@ -6,11 +6,10 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**October 12, 2026 — 1.1.0, submit labels**
+**October 15, 2026 — coach mark, leave party**
 
-- Open the paste box, manual entry or the iOS share sheet: the button no longer says Submit. Each open deals a different party-flavored label, with no repeats until the deck runs out.
-- Send a result from the paste box or share sheet; a matching "sending" line appears while it works. If it fails, the button keeps its label.
-- Settings now reads 1.1.0. Same app, bigger number.
+- Open a party feed: the "Tap and hold to react" hint should sit in plain view above the newest message, then vanish for good on your first touch anywhere.
+- Leave a party you don't host. You should land on Home with that party already gone from the list, not stranded in the feed you just quit.
 
 [All staging releases](releases/staging.md)
 
