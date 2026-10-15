@@ -6,6 +6,11 @@ What's new in each production release, newest first. Entries are added automatic
 
 ---
 
+## October 15, 2026 — Meet Quirk
+
+- Meet Quirk, our Party Animal. Same face, new name, same unreasonable enthusiasm for your solves.
+- Quick Paste on the web stopped saying "Submit". Each visit deals a party-flavored label instead.
+
 ## October 10, 2026 — version 1.0.2, Party Animal groundwork
 
 - With Spoiler Prevention on, the Party Animal keeps its reactions to a friend's result to itself until you've played too.
