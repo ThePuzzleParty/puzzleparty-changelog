@@ -6,6 +6,10 @@ What's new in each production release, newest first. Entries are added automatic
 
 ---
 
+## October 19, 2026 — Meet Quip
+
+- Our Party Animal is Quip now. Same face, same hype, and yes, that's two new name tags in one week.
+
 ## October 15, 2026 — 1.1.0, submit labels
 
 - The submit button no longer says Submit. Each result now leaves with a party-flavored send-off, on the paste box, manual entry and the share sheet.
