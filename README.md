@@ -6,10 +6,7 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**October 15, 2026 — coach mark, leave party**
-
-- Open a party feed: the "Tap and hold to react" hint should sit in plain view above the newest message, then vanish for good on your first touch anywhere.
-- Leave a party you don't host. You should land on Home with that party already gone from the list, not stranded in the feed you just quit.
+_No releases logged yet._
 
 [All staging releases](releases/staging.md)
 
