@@ -6,12 +6,9 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**October 20, 2026 — Krillion, party icons, People search**
+**October 20, 2026 — announcement CTA fix**
 
-- Share a Krillion result, or enter one by hand: the wheel runs 0–700 in fives with a Solved/DNF toggle. Solved reads "345 pts"; DNF reads "Failed" and carries no score.
-- Open Stats for Krillion: it gets its own score histogram and a trend graph scaled to 700, not a borrowed Scrandle axis.
-- Change a party's icon: hockey, stealie and Fifth Element are now on the menu.
-- Type in People search: a clear button appears and one tap restores the full list. Scrolling or tapping a row drops the keyboard, so the tab bar is reachable again.
+- Open the Krillion announcement (or find it under previous announcements) and tap Play now: you should land on the Games tab instead of watching the modal quietly close and nothing else happen.
 
 [All staging releases](releases/staging.md)
 
