@@ -1,0 +1,457 @@
+# Staging Releases
+
+What to test in each TestFlight staging build, newest first. Entries are added automatically when a staging deploy ships.
+
+[← Back to Main Index](../README.md)
+
+---
+
+## October 20, 2026 — Krillion, party icons, People search
+
+- Share a Krillion result, or enter one by hand: the wheel runs 0–700 in fives with a Solved/DNF toggle. Solved reads "345 pts"; DNF reads "Failed" and carries no score.
+- Open Stats for Krillion: it gets its own score histogram and a trend graph scaled to 700, not a borrowed Scrandle axis.
+- Change a party's icon: hockey, stealie and Fifth Element are now on the menu.
+- Type in People search: a clear button appears and one tap restores the full list. Scrolling or tapping a row drops the keyboard, so the tab bar is reachable again.
+
+## October 15, 2026 — coach mark, leave party
+
+- Open a party feed: the "Tap and hold to react" hint should sit in plain view above the newest message, then vanish for good on your first touch anywhere.
+- Leave a party you don't host. You should land on Home with that party already gone from the list, not stranded in the feed you just quit.
+
+## October 12, 2026 — 1.1.0, submit labels
+
+- Open the paste box, manual entry or the iOS share sheet: the button no longer says Submit. Each open deals a different party-flavored label, with no repeats until the deck runs out.
+- Send a result from the paste box or share sheet; a matching "sending" line appears while it works. If it fails, the button keeps its label.
+- Settings now reads 1.1.0. Same app, bigger number.
+
+## October 10, 2026 — version 1.0.2
+
+- Open Settings and look for version 1.0.2. That is the whole release; Apple wanted a bigger number before taking another build.
+
+## October 8, 2026 — Party Animal, Plus gates, sync fixes
+
+- With Spoiler Prevention on, the mascot's reactions to someone's result stay hidden until you've played that game.
+- The mascot's profile, avatar and settings should look as before; it's data-driven now, so any change is a bug.
+- Have someone join or leave while you're in party chat; the member count and avatars should update on their own.
+- Party Details lists Mini, Midi and Daily Crossword as separate rows, each keeping its Timed chip after a sync.
+- Sign out of a Plus account and into a free one; no borrowed Plus perks.
+- As a free user, Full stats from the lineup or stats hub should offer Plus, not "Failed to load game stats."
+- Assorted housekeeping; if you can see it, it's a bug.
+
+## October 1, 2026 — Version 1.0.1
+
+- Share a result into PuzzleParty from Safari or a game's share sheet; the share extension got new build settings and should still appear and submit as if nothing happened.
+- The app now answers to 1.0.1. That is the whole release: the App Store declined to accept a second 1.0.0.
+
+## October 1, 2026 — Push priming, Color Daily
+
+- Fresh install: neither iOS nor Android should pop its notification prompt on its own. Our sheet asks instead, after you post a result, create a party, share an invite, or join one.
+- Join a party by invite link; the sheet should ask about that party by name.
+- "Not now" buys three days of peace, and three refusals end the asking. Only "Turn on notifications" (or the Settings toggle) summons the OS dialog.
+- Share a Dialed result, now headed "Color Daily"; it should score again instead of being politely ignored.
+- Assorted housekeeping; if you can see it, it's a bug.
+
+## September 30, 2026 — Push token + provisional
+
+- New iPhone install: no notification popup on first launch, yet notifications should still arrive, quietly, in Notification Center. The popup still turns up on a later launch; that is the next phase's business.
+- Settings > Notifications on that install should say On, "Delivered quietly", with a banners-and-sounds button that asks iOS instead of exiling you to Settings.
+- Android 13+, never answered the prompt: the Notifications toggle now just asks.
+- Sign out and have a friend DM you. Silence is correct. Sign in as someone else without closing the app; only their notifications should follow.
+- Assorted plumbing so new accounts are reachable; if you can see it, it's a bug.
+
+## September 23, 2026 — Timezone, Dot unread, late submissions
+
+- Watch the Home wordmark settle; "party" should stay visible instead of quietly excusing itself.
+- Help now has a "The full guide" row that opens the web guide in your browser.
+- Create a party with a late-submission option; party details should show what you picked, not a blanket "Not Allowed".
+- Change your phone's time zone and reopen the app; standings and "today" should follow you.
+- Dot chatting in a party no longer bumps your unread count or app badge. Actual humans still do.
+
+## September 16, 2026 — Welcome walkthrough
+
+- Sign up and pick "Just checking it out", or tap Help: you get a four-card walkthrough instead of the scripted Welcome Party, which has left the building.
+- Swipe through it, tap the page dots, try Skip, and use the system back gesture on each card; card 4 should offer "Add my first result" or "I'll look around first".
+- The cards now carry real in-app screenshots rather than labelled grey rectangles.
+- On an account with no results yet, the Getting Started card shrinks to one numbered step with an "Add a result" button and a "Then:" line; log a result and the full checklist returns.
+
+## September 15, 2026 — Everyone Today naming, wizard funnel
+
+- Open a game's detail sheet from Today's Lineup, or the cross-party summary sheet; the row label and subtitle now read "Everyone Today", capitalised like a feature that has earned a name.
+- Settings, Notifications: "Closing-soon reminders" is now "Time zone heads-up". Same switch, same hour-before nudge, less nagging in the title.
+- Create a party from anywhere (welcome, Home, People, share dialog, invite link) and try the system back gesture while it is saving; it should be politely ignored until the save lands. Everything else about the wizard should look exactly as before.
+- Assorted housekeeping (funnel analytics); if you can see it, it's a bug.
+
+
+## September 11, 2026 — Wordle parity fixtures
+
+- Share a Wordle played from the NYT archive (the one with the "Archive September 10, 2026" line on top) via the share sheet; it should land as a normal entry instead of "Unable to parse". Same for a "5-for-5 Challenge Complete" share. The fix is server-side, so this is a retest against staging rather than new app code.
+- Otherwise assorted housekeeping (test fixtures only); if you can see it, it's a bug.
+
+## September 10, 2026 — Lineup row refinement
+
+- Today's Lineup rows lose the grey checkbox; game names get the full width, and the play / enter buttons sit bottom-right. Long names should no longer trim at normal text sizes.
+- Completed rows wear a wider green edge, a faint green tint and a green "done" time. Quietly obvious.
+- The rollover chip is now just a clock and a time: amber all day, filled amber inside the hour, red in the last 15 minutes. The streak flame stays visible beside it.
+
+## September 10, 2026 — Two-line lineup rows
+
+- Open Today's Lineup: every row is now the same height, name on top, chip / streak / "done" time underneath. No more game names wrapping one letter per line beside a Closes chip.
+- Completed rows match the rest, with the result on the second line.
+- Crank text size up in Settings; rows stay uniform, and only the very longest names trim.
+
+## September 10, 2026 — Rollover chip + Everyone today
+
+- With the Mini unplayed, open Today's Lineup: games that roll over before your midnight get a "Closes 7pm" chip that counts down inside the last hour and turns past-tense after.
+- The collapsed lineup card names the next early game; the game sheet spells it out and, after rollover, offers Open archive where one exists.
+- Settings > Notifications gains Closing-soon reminders. Leave it on; an hour before an unplayed early game closes, expect a nudge that lands on Home with the lineup open.
+- Plus: on a completed game's sheet, Everyone today shows the cross-party spread. Free accounts get the upsell.
+- Games tab reset times are now honest for 14 games. LinkedIn is midnight Pacific; Mathler is your midnight.
+
+## September 8, 2026 — Lineup feed target, tip names, Getting Started fix
+
+- In Today's Lineup, tap a game, then a party under PLAYING IN; you should land in that party's feed, not its details page, and the party's unread badge should clear.
+- Open the Store tip jar; the first two tiers now read Party Starter and Party VIP, matching the receipt and the thank-you email for once.
+- Sign in on a fresh install with an established account; the Getting Started card should stay away rather than greeting you like a newcomer.
+
+## September 8, 2026 — Apple resubmission fixes + lineup sheet
+
+- Open Settings; the Redeem Code row is gone, and no promo-code prompt survives anywhere in the app.
+- On the Store, Subscribe is disabled with an "App Store price unavailable" note whenever the store can't load prices, instead of tapping into silence. Once products load, the price, a renewal disclosure, and Terms/Privacy links appear under the plan.
+- The paywall's perks list reads like English now, not database column names.
+- On an iPad, Store, Settings, Help, and Games sit in a centered column instead of stretching wall to wall; chat bubbles stop at a sane width.
+- Tiny grey labels in the Games tab grew up to 11pt; squint less.
+- Tap a row in Today's Lineup to open the game's detail sheet, with Remove and Undo.
+- Assorted housekeeping; if you can see it, it's a bug.
+
+## September 6, 2026 — Wizard name-step polish, delete-party confirm
+
+- Create a party. The games list should start with nothing ticked, even if you picked games last time.
+- On Name Your Party, tap a group chip and a name drops in. Roll for a different one below the chips; the dice should spin, and the name should change on the first frame, not after.
+- Roll before picking a group: the button should be disabled. Clear the name with the X; tap the same chip again and a name should come back.
+- Delete a party from its settings. After "Are you sure?", you now type the party name before Delete forever lights up. Home should update without a manual refresh.
+- Open a party. Its icon, theme and character should stay put instead of blanking.
+- Assorted housekeeping; if you can see it, it's a bug.
+
+## September 5, 2026 — Door 3, and one way to make a party
+
+- Sign up fresh and pick "Just checking it out": no questions, no games chosen for you, nothing created. You land on Home with the interface intact.
+- Start a party from anywhere — Home, People, the welcome screen — and you get the same guided flow: pick games, name it, choose settings, invite people. The old one-page form is gone.
+- The party is now created at the invite step, so backing out earlier leaves nothing behind.
+- History import is off unless you turn it on. Spoiler Prevention is on, and "What stays hidden?" now explains what actually appears on screen.
+- Try naming a party something you already used. It should stop you, on the name step and when renaming in settings.
+- Getting Started no longer bluffs: rows you can't do yet say what they need instead of quietly opening something else.
+
+## September 4, 2026 — Brand marks: launch screen, app icon, ticket emblem
+
+- Delete the app and reinstall before testing this one: tap the icon and the launch screen should be cream with the app icon, not a white flash. iOS caches the old one, so an upgrade in place will lie to you.
+- Sign in or sign up; the party-hat emoji is gone, replaced by the app icon — the staging icon on staging, so you can tell at a glance which build you are in.
+- On Android, look at the icon on your home screen: it now fills its shape properly instead of being cropped.
+- New account, welcome screen: a blue PuzzleParty ticket now sits above "How did you get here?" where the icon and name used to be.
+
+## September 3, 2026 — Onboarding batch: welcome screen, games step, missions
+
+- Sign up fresh; the "How did you get here?" screen now looks like a party, with tilted sticker doors and a quick confetti burst.
+- Start a party; the games step lists all 32 puzzles, nothing pre-ticked, and won't let you continue with zero.
+- Getting Started opens with "Pick your avatar"; "First friend joins" is gone and "Check the party feed" replaces reacting.
+- Expand Today's Lineup; the sections read Completed, Still to play for your parties, and Tracking for you, with a flame on streak rows.
+- Paste a result no party plays; you get a "saved to your stats" note instead of a party celebration.
+- Tap the bare invite code on Invite Friends; it copies.
+- Paste a hard-mode Wordle; the feed now says so, and pasted results carry their puzzle number.
+
+## September 2, 2026 — Today's Lineup + standings rank
+
+- The dark panel on Home now introduces itself: a small "Today's Lineup" label sits above the count, and the Getting Started guidance points you at it by name instead of waving at "the top of Home".
+- Open a party's per-game standings; the medals now match the server's ranking. Two players a third of a mistake apart should no longer share silver.
+- When a standings list is ordered one way but the stat beside each name suggests another, it now says why rather than leaving you to squint.
+
+## September 2, 2026 — Game identity + party names
+
+- Fresh install, paste a Wordle result: it should land as Wordle. Previously it landed as Mathler, which was a bold reinterpretation.
+- Existing installs get the same fix on first launch: the local games list is purged and rebuilt from the server, so the Mathler impostor cannot recur.
+- On Name Your Party, mash the randomize button. 271 names now, and none should repeat within twenty taps.
+- Submitting names the game instead of numbering it; a game the app knows but the server doesn't now says so plainly rather than failing cryptically.
+
+## September 2, 2026 — Onboarding fixes
+
+- Sign in with a wrong password; it should now tell you the password is wrong instead of shrugging "Something went wrong".
+- Create a party from scratch: you now get to pick your games rather than inheriting ten of them unannounced.
+- On the invite screen, open a friend's three-dot menu; the invite link can be copied or shared again, so losing your clipboard is no longer fatal.
+- Finish all five Getting Started items and let the founding-member celebration land; it should wait to be read rather than vanishing.
+- Sign in as a second account on the same device; Getting Started should no longer tick off things the previous account did.
+
+## September 1, 2026 — Daily Crossword + test harness
+
+- Share a NYT Daily Crossword, Sunday included; over-hour solves should read 1:13:43, not 73 seconds. Manual entry grew an hours picker.
+- The debug server override is gone; if you had one saved, the app should quietly forget it and stay pointed at staging.
+- Settings can now conjure a filled test account and reset to a fresh run — you should land as somebody new, not half-wiped.
+- Stuck mid-onboarding? The fresh-run chip is reachable there now, without the force-quit pilgrimage back through Home.
+
+## September 1, 2026 — Consolidated invites
+
+- Have someone invite you to a party; an "Invitations for you" card should appear on the People tab. Join, decline, or block from it. The nav badge counts invitations alongside unread messages.
+- Send a few invites of your own, then tap "Waiting on N invites" on the People tab. One list, every party, with nudge and remove. Nudge is no longer offered on someone who already joined.
+- Tap an invitation's row body to open the party preview. Continue should join you outright, rather than parking on a spinner as it used to.
+- Tell the roster prompt "Not now", then force-quit and paste the same game again. It should take the hint this time.
+
+## August 31, 2026 — Cold-start onboarding + invites
+
+- Fresh account: a three-door welcome (invite code / start a party / just looking) should replace the empty Home.
+- Pick "just checking it out" to meet the Welcome Party, a labeled sample with Dot and Spot. Your pasted result scores; theirs count for nothing.
+- Partyless Home has a day-zero hero with the lime plus; the party wizard should take about fifteen seconds.
+- Invite a friend: a full-screen invite screen with status tracker, Nudge and Remove, code/QR/share below. No contacts prompt.
+- Store: purchases on Android (new billing library), and a close button when the screen is pushed on its own.
+- The delete-account screen finally admits it keeps an email-suppression record.
+- Assorted housekeeping; if you can see it, it's a bug.
+
+## August 24, 2026 — Splash icon, signup disclosure, invite fix
+
+- Cold-start the app: the splash screen should show the branded PuzzleParty icon instead of a blank void.
+- Run through a fresh signup: the email step now says up front what we'll send you before you hand over the address.
+- Open a party invite link and join: after signing in you should land on Home, not a dead end.
+
+## August 24, 2026 — Avatar packs + paste primer
+
+- Open the avatar picker's Pack tab: every pack now sits fully expanded in one list, and the store tile is gone.
+- Fresh install on iOS: copy a puzzle result and open the app — a one-time explainer should appear before the system "Allow Paste" prompt, then never again.
+- Skim the Credits screen; a certain AI assistant has been politely shown the door.
+
+## August 23, 2026 — Clipboard auto-submit + credits
+
+- Copy a puzzle result, open the app, and hit the + button: the result should submit itself, no paste required. Copy something that isn't a puzzle and + should behave as before.
+- Settings, About, Credits: a new screen listing the fonts and libraries we borrowed. Riveting reading.
+- Link a computer: the instructions are clearer, the pairing code formats itself as you type, and you can share it straight to the computer.
+- Send a party invite from an iPhone: the share sheet should actually appear now instead of silently giving up.
+- Assorted housekeeping; if you can see it, it's a bug.
+
+## August 20, 2026 — Linked computers + Stats Hub fix
+
+- Settings, Linked computers, Link a computer: open puzzleparty.dev/paste on a computer and type in the code it shows you.
+- Paste a puzzle result into that page; it should land on your phone exactly as if you had shared it there.
+- Unlink the computer again from the same screen. The next paste should send it back to the pairing code, no reload required.
+- Open the Stats Hub from the store: it should sit on top of the app rather than swallowing the navigation, and Back should return you where you came from.
+- The address the app tells you to visit should match the one above, exactly. Earlier builds of this release named the wrong host, where your code would have been quietly unusable.
+
+## August 19, 2026 — Strands themed tiles
+
+- Paste a Strands result from a day NYT swapped in novelty tiles (July 4 used fireworks and a flag; Aug 19 used a picnic basket and a hot dog). It should score as a solve, not a zero.
+- Open the scoreboard for July 4 or Aug 19: those Strands rows now carry real scores instead of goose eggs.
+- Share an ordinary blue-and-yellow Strands board too. Nothing about the normal case should have moved.
+
+## August 19, 2026 — Repeatable tip jar
+
+- Open the Store tab: all three tip tiers show a price button, even ones you tipped before — the green "Owned" state is gone.
+- Tip a tier, then tip the same tier again; both purchases should complete, each with a "Thanks for the tip!" card.
+- Tiers you've tipped show a small Supporter heart; your badge still reflects your highest tier.
+- Tap Restore Purchases: Plus and avatar packs come back, tips don't — note the new caption explaining tips are saved to your account.
+- Assorted housekeeping; if you can see it, it's a bug.
+
+## August 19, 2026 — Store fix + Catalogues support
+
+- Open the Store tab: it should load subscriptions, support tiers, and avatar packs with real prices, instead of the "check your connection" dead end it has been serving on device.
+- Share a Catalogues result from The New Yorker; it should parse, score, and appear on the party scoreboard like any other game.
+- Log one by hand too: manual entry should offer Catalogues with the right fields, DNF included.
+- Check its stats page after a couple of entries: a Catalogues-specific trend, not a generic "Avg Score" shrug.
+- Assorted housekeeping; if you can see it, it's a bug.
+
+## August 4, 2026 — Invite sign-in fixes + auth diagnostics
+
+- Open a party invite link as a fresh install: the preview should show the real party name, host, and games — not a network error.
+- Sign in with Google or Apple from that invite flow: you should land in the app and join the party without force-quitting.
+- Cancel a sign-in midway, then retry: the buttons stay usable, and genuine failures now show an actual error message instead of silence.
+- Assorted housekeeping; if you can see it, it's a bug.
+
+## August 1, 2026 — One Word Search support
+
+- Solve One Word Search (puzzlist.com/onewordsearch) and share the result into PuzzleParty; it should land as a timed score whose party rating matches the game's own stars — 5-star sparkle rows and streak-milestone hashtags included.
+- Log one manually too: time picker with a DNF toggle, filed under Word Games.
+- Check its stats page after a couple of entries: solve-time trend, not "Avg Score".
+
+## July 30, 2026 — Nerdle support
+
+- Paste a Nerdle result (nerdlegame 1653 3/6 plus its grid); it should parse, score like Wordle, and land on the scoreboard.
+- Try a mini or speed nerdle share; the app should politely decline rather than file it under classic.
+- Log a Nerdle manually, including the unsolved toggle — a DNF is the only way to record a loss, since Nerdle never shares one.
+- Check Nerdle's stats page after a few entries: guess distribution and a trend graph, not "Avg Score".
+
+## July 29, 2026 — partner page links
+
+- Open the avatar menu and scroll the Games tab to the bottom; both now carry a "Partner with PuzzleParty" link that should open the partner page in your browser. If you run a puzzle game, we'd love to hear from you; if you don't, enjoy the field trip.
+
+## July 27, 2026 — reaction hardening + avatar frames
+
+- Add several different reactions to a DM, as fast as you like; all of them should appear and stay. Previously the second one performed a brief cameo and vanished.
+- Tap two different reaction emojis in quick succession (DM or party feed); both should register, and a failed request no longer takes a neighboring reaction down with it.
+- Equip an avatar frame, then check the People tab and a head-to-head header; the frame should render there too, not just on your profile.
+
+## July 26, 2026 — reactions + Plus borders
+
+- As a Plus subscriber, pick a ring-style avatar frame; it should render as a full inset ring around your avatar, with the picker tidily sorted into categories.
+- React to a party message with several emojis, then long-press to reopen the picker: every one you've already used shows a green ring — including picks from the Plus set — and tapping one again removes it.
+- In a DM, fire off two different reactions in quick succession; both should stick, instead of the second flickering and vanishing.
+
+## July 24, 2026 — Reaction picker Plus upsell
+
+- As a free user, open the reaction picker: the premium reactions should now pitch a Plus upsell instead of silently doing nothing. Plus users still get the full picker.
+- Poke the head-to-head Plus gate too; it shares the same upsell now, so it should look and behave identically to the reaction one.
+- Assorted plumbing; if you can see it, it's a bug.
+
+## July 23, 2026 — Account deletion
+
+- Delete your account from Settings: you'll be asked to sign in again, then everything local should vanish along with it. Use a throwaway account unless you're feeling brave.
+- Open the FAQ and find the People & Messages topic; its icon should be an actual icon rather than a blank space.
+- Check Settings for "Spoiler Prevention" — same switch as before, better name.
+
+## July 19, 2026 — DM reactions + premium picker
+
+- Long-press a message in a DM thread; the reaction picker should appear, and reactions should show up on the other person's phone without a refresh.
+- Tap the plus at the end of the picker; a sheet of reaction packs opens — owned packs are tappable, locked ones show a padlock and a sales pitch instead of posting.
+- Buy a pack (sandbox); its emojis should unlock in the picker without restarting the app.
+- Post the star or disco ball from an owned pack; those two used to fail silently, so them landing at all is the test.
+- Assorted housekeeping; if you can see it, it's a bug.
+
+## July 16, 2026 — Scrandle
+
+- New game: Scrandle, scrandle.com's daily stadium-food showdown. Finish the daily, tap the clipboard icon on its results screen, paste into PuzzleParty — expect a proper 4/10-style score, not a shrug.
+- No share handy? Manual entry: pick 0–10 correct on the selector, or flip Failed if you bailed mid-scran. Failed keeps your participation streak and breaks the solved ones.
+- After a few entries, open Scrandle in Stats: score histogram with a Failed row, plus a Score Trend graph — a first for any game.
+- Practice-mode and Super Scrandle shares should be politely declined.
+
+## July 8, 2026 — Head-to-head Plus gate
+
+- Open head-to-head comparison as a Free user; it should now sit behind a PuzzleParty Plus gate rather than opening.
+- Repeat as a Plus member; the comparison should open as before, no gate in sight.
+
+## July 7, 2026 — avatars, sparkle, party looks
+
+- Open Avatar settings and pick one of the new default glyphs plus a frame; the four free frames equip, while the two Pioneer ones read "Pioneer exclusive" and stay locked (no Store detour) unless you're a Pioneer.
+- Glance at the Home wordmark — it should pick up a small daily sparkle and otherwise behave itself.
+- Give a single party your own personal icon/theme without changing how it looks for everyone else.
+
+## July 6, 2026 — party icons + head-to-head polish
+
+- Open a party's settings and pick an icon: it should tint to the party's theme colour and show up on the party card and header, not just in the picker.
+- Pull up a head-to-head: the game name should sit centered at the top, and the day's winner gets a green highlight instead of a polite shrug.
+- Visit a person's comparison screen; expect an overall win/loss record summary with color-coded labels.
+- "Spoiler Mode" is now "Hide spoilers" everywhere it showed up (settings, FAQ, landing). Same switch, calmer name.
+
+## July 2, 2026 — July 4th Easter egg
+
+- On July 4th — judged by your profile timezone, not the device clock — the home screen should serve a one-time Independence Day celebration and tint the hero card. Dismiss it once and it stays gone for the rest of the year.
+- Any other day: no fireworks, no accent, business as usual.
+
+## July 2, 2026 — spoiler threads + People refresh
+
+- Turn spoilers on in a party, then reveal a spoiler comment (solve the puzzle, or flip spoiler mode off). It should now label which puzzle it's about — "Wordle · Today" — instead of leaving you guessing.
+- Tap that badge on today's spoiler; you land on a "[Game] Activity" screen with the day's entries and spoiler talk for that game, in order. Prior-day badges are for looking, not touching.
+- Open People, dive into a DM, then come back. The list refreshes on its own instead of clinging to stale unread counts.
+
+## June 30, 2026 — streak visibility
+
+- Tap the streak flame on a party card (also the home-screen flame and a party's header chip); each opens a modal that now spells out exactly what the streak is counting.
+- Tap a puzzle entry in the party feed; if you're on a run for that game, the detail popup now shows the streak badge too.
+
+## June 30, 2026 — home hero + polish
+
+- Your home hero now counts only party puzzles — the big number, flame streak, and end-of-day confetti ignore games played outside your parties. Those show as violet pills at the tail of the progress bar; tap them for a quick explainer.
+- Open your Pips stats; the time-based histogram should now appear, Failed row and all.
+- Glance at a party chat header for Cameron's new Scoreboard glyph.
+- Spoilers now wear a softer lavender mask instead of the old loud grape.
+- Settings has a new Direct Messages notification toggle; flip it and confirm DM pushes fall in line.
+
+## June 27, 2026 — People tab & feed
+
+- People tab: tap someone's name to drop straight into a DM. Head-to-head now lives behind the scoreboard icon on each row.
+- Party feed: tap anyone's avatar (yours included) to open their profile.
+- Bottom nav is reordered to Home, People, Games, Store. The People tab grows a live unread badge that clears once you read the thread.
+- Standings and head-to-head now show the actual game result instead of a percentage.
+
+## June 26, 2026 — Direct Messages: push deep-link
+
+- Tap a direct-message push notification; it should drop you straight into that conversation instead of the home screen.
+- Tap a DM notification for a thread you already have open; it should stay put rather than stacking a second copy.
+- If the conversation has since been blocked or deleted, tapping its notification should land you on home with a brief "couldn't open" note — not a crash or a blank screen.
+
+## June 26, 2026 — Direct Messages + People tab
+
+- People graduates to its own bottom tab: your active-party co-members, searchable by name, sorted by most recent chatter.
+- Tap someone for a "You vs them" comparison, then hit Message to open a 1:1 chat — send, delete, and watch the typing dots.
+- Mute a chat from its overflow to silence its notifications (it still racks up unread); block or report from the person screen or the chat menu.
+- Blocking is silent and quietly drops the person from People; review and undo the fallout under Settings → Blocked Users.
+- Share a Crossclimb result copied straight from the app (newline format, no pipes); it should now parse instead of shrugging.
+
+## June 25, 2026 — People surface
+
+- On the Home tab, tap the new "People" toggle beside "Your Parties": you should get a list of folks you share a party with, each tagged with what they last played and when.
+- Tap a person to open "You vs [Name]": the games you both play, with your win-loss record per game. Tap a game to drill into the day-by-day head-to-head.
+- Someone you've never overlapped with on a puzzle still appears, just with nothing to compare yet. That's expected, not a bug.
+
+## June 24, 2026 — Your Games + per-game standings
+
+- Open the home hero dropdown: games you've played lately now appear under "Your Games," separate from your party games. Nothing played yet? You get a nudge toward the Games tab instead.
+- On a party scoreboard, use the new game-selector dropdown to switch from "Overall" to a single game; the list re-ranks by that game and defaults to an All-time view.
+- Members with no plays sit in a muted "Hasn't played" footer; if nobody's played it, you get an empty state instead of a blank table.
+- Tap a member in a per-game standings list to open the head-to-head: your record, shared days, and a day-by-day who-won breakdown.
+- Tap a player's per-game row in the detail sheet; it should jump straight to that game's standings.
+- Assorted housekeeping; if you can see it, it's a bug.
+
+## June 21, 2026 — Failed results, recognized
+
+- Paste a Pinpoint loss (the five-thinking-faces "X/5" share); it should record as a failed attempt instead of greeting you with "Unrecognized Format."
+- Mark a timed LinkedIn game (Queens, Zip, Tango, and friends) as "didn't solve it" via manual entry; the miss should now show up as a "Failed" row in that game's time stats instead of quietly disappearing.
+
+## June 20, 2026 — Word Search
+
+- Solve the Daily Mini at wordsearch.com (or the bigger Daily Max at /max), share the result, and it should land as a timed game under a new "Word Search" family, scored by how fast you finished.
+- Add a Word Search by hand from manual entry; the minutes:seconds picker and the give-up (DNF) toggle should both behave.
+
+## June 20, 2026 — Help guide + Stats polish
+
+- Tap your avatar: Help and Support are now separate items. Help opens a multilevel guide — pick a topic, drill in for answers; Support is just ticket stuff.
+- Open a game's solve-time histogram in Stats; bucket labels should read as mm:ss, not a wall of raw seconds.
+- Check the Stats Games tab: games now sort by how often you've played them, and ones you've never touched collapse out of the way.
+
+## June 17, 2026 — game stats fixes
+
+- Open a Waffle, Number Waffle, or Stackdown stats screen — the star distribution and history are back instead of a blank grey void, now with a "Failed" row for the ones that got away.
+- Stackdown stats gain a solve-time distribution chart beneath the stars.
+- Strands stats with no hints used should show a tidy empty-state row instead of nothing at all.
+- Dialed Daily's average score now reads on its native 0–50 scale, not a mystery percentage.
+
+## June 16, 2026 — NYT Pips
+
+- Share an NYT Pips result (Easy, Medium, or Hard); it should parse, land on the right difficulty, and score on the clock like the other timed games — quicker is better, with cookie credit where earned.
+- Assorted housekeeping; if you can see it, it's a bug.
+
+## June 15, 2026 — Wend/Patches + home fixes
+
+- Share a Wend or Patches result (the LinkedIn newcomers); they should parse, score, and land on the board like the regulars.
+- Share a Zip result; its score should now agree with the backend instead of inventing its own math.
+- Add or remove a game from a party; the home hero should notice and refresh instead of clinging to the old lineup.
+- Your own avatar on the home bar and party sheets should show your photo, not fall back to initials.
+
+## June 13, 2026 — LinkedIn share parsing
+
+- Share a Zip, Tango, Queens, or Pinpoint result straight from LinkedIn; it should finally parse and score instead of vanishing into the void.
+- Manually log a Pinpoint you didn't solve; it should save as a did-not-finish rather than bouncing back with an error.
+- Tap Play on the Home hero card; it should route you to the right place via the standard /home link.
+
+## June 12, 2026 — five LinkedIn games
+
+- Share results from the five new LinkedIn games — Mini Sudoku, Tango, Crossclimb, Pinpoint, and Zip. Each should parse, score, and land on scoreboards and stats like any other game.
+- Manual entry works for all five: time picker (with DNF) for the timed four, a 1-5 guess picker for Pinpoint.
+- Zip records backtracks; they break ties between equal times but never move the score itself.
+- "and flawless" shares count toward flawless stats — including Crossclimb, which it turns out has them.
+- Paste a mangled share like "Queens #650 | 1:590" and it should be politely declined, not scored as 1:59.
+
+## June 11, 2026 — Queens time, Mini dates, stat trends
+
+- Tap a Queens result in party chat; the detail popup now shows the solve time instead of pretending you finished instantly.
+- Open per-game stats for a guess game (Wordle) and a star game (Waffle); each should show a trend chart of your recent results.
+- Share a Mini Crossword result in the old text format; the puzzle date should match the date printed in the share, not whatever day your phone thinks it is.
+
+## June 11, 2026 — Queens + visual fixes
+
+- Share a LinkedIn Queens result, or type one in by hand; it should score on time like the other LinkedIn games, flawless and DNF included.
+- On the Games tab, crank text size and browse by category; long names like "Memory & Visual" should no longer clip their game counts.
+- Open any game's detail screen; the tinted header should now reach the very top of the screen, no white strip above it.
+- Assorted housekeeping; if you can see it, it's a bug.
