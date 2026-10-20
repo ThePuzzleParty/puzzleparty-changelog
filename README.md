@@ -14,9 +14,13 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Production Release
 
-**October 19, 2026 — Meet Quip**
+**October 20, 2026 — 1.1.1: Krillion, CTA fix**
 
-- Our Party Animal is Quip now. Same face, same hype, and yes, that's two new name tags in one week.
+- Krillion joins the lineup under Trivia. Share your daily dive or enter a score by hand; it counts like any other game.
+- Announcement buttons now go where they say. Play now opens the Games tab instead of politely closing.
+- Three new party icons: hockey, stealie, and a certain fifth element.
+- People search gained a clear button, and the keyboard steps aside when you scroll.
+- The Party Animal has new material: callouts for standout results and an end-of-day wrap-up.
 
 [All production releases](releases/production.md)
 
