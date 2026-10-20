@@ -6,6 +6,10 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## October 20, 2026 — 1.1.1 version bump
+
+- Settings now reads 1.1.1. Same app as the last build, one digit braver; if anything else looks different, it isn't supposed to.
+
 ## October 20, 2026 — announcement CTA fix
 
 - Open the Krillion announcement (or find it under previous announcements) and tap Play now: you should land on the Games tab instead of watching the modal quietly close and nothing else happen.
