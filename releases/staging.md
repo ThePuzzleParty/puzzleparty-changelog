@@ -6,6 +6,10 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## October 20, 2026 — announcement CTA fix
+
+- Open the Krillion announcement (or find it under previous announcements) and tap Play now: you should land on the Games tab instead of watching the modal quietly close and nothing else happen.
+
 ## October 20, 2026 — Krillion, party icons, People search
 
 - Share a Krillion result, or enter one by hand: the wheel runs 0–700 in fives with a Solved/DNF toggle. Solved reads "345 pts"; DNF reads "Failed" and carries no score.
