@@ -19,13 +19,12 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Production Release
 
-**October 20, 2026 — 1.1.1: Krillion, CTA fix**
+**October 23, 2026 — 1.1.2, MapTap, Strands Sports**
 
-- Krillion joins the lineup under Trivia. Share your daily dive or enter a score by hand; it counts like any other game.
-- Announcement buttons now go where they say. Play now opens the Games tab instead of politely closing.
-- Three new party icons: hockey, stealie, and a certain fifth element.
-- People search gained a clear button, and the keyboard steps aside when you scroll.
-- The Party Animal has new material: callouts for standout results and an end-of-day wrap-up.
+- New game: MapTap. Five taps on a globe, up to 1,000 points, and the first resident of a new Geography category.
+- New game: Strands: Sports Edition, scored separately from regular Strands.
+- Hosts can now decide how much the Party Animal talks: Quiet, Normal or Chatty.
+- The app can now tell you when a newer version is out, so you can stop wondering.
 
 [All production releases](releases/production.md)
 
@@ -39,5 +38,5 @@ Features and fixes in development (not yet released)
 
 Released features and fixes
 
-**463 total updates**
+**468 total updates**
 
