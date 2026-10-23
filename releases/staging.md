@@ -6,6 +6,15 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## October 23, 2026 — MapTap, Strands Sports
+
+- Share a MapTap result; a 948 should show as 948 pts and rank by score. A negative antipode day counts as zero, as it should.
+- Log MapTap by hand: the picker opens at 800 and steps by one. DNF scores nothing and says Failed.
+- MapTap lives in the new Geography category. Geography had been waiting a while.
+- Share a Strands: Sports Edition result; it lands as its own game, not regular Strands.
+- Hosts: Party Settings now asks how much your Party Animal talks. Quiet, Normal or Chatty; it saves the moment you pick.
+- Assorted housekeeping; if you can see it, it's a bug.
+
 ## October 20, 2026 — 1.1.1 version bump
 
 - Settings now reads 1.1.1. Same app as the last build, one digit braver; if anything else looks different, it isn't supposed to.
