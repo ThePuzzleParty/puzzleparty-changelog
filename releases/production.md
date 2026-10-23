@@ -6,6 +6,13 @@ What's new in each production release, newest first. Entries are added automatic
 
 ---
 
+## October 23, 2026 — 1.1.2, MapTap, Strands Sports
+
+- New game: MapTap. Five taps on a globe, up to 1,000 points, and the first resident of a new Geography category.
+- New game: Strands: Sports Edition, scored separately from regular Strands.
+- Hosts can now decide how much the Party Animal talks: Quiet, Normal or Chatty.
+- The app can now tell you when a newer version is out, so you can stop wondering.
+
 ## October 20, 2026 — 1.1.1: Krillion, CTA fix
 
 - Krillion joins the lineup under Trivia. Share your daily dive or enter a score by hand; it counts like any other game.
