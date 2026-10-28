@@ -6,6 +6,12 @@ What's new in each production release, newest first. Entries are added automatic
 
 ---
 
+## October 28, 2026 — 1.1.3, Bracket City + share tile
+
+- New game: Bracket City. Paste your result or log it by hand; it scores in points out of 100.
+- Its stats page comes with a histogram and a trend line, for those who enjoy watching themselves improve.
+- On iPhone, PuzzleParty can now turn up in the share sheet's top row. One tap from puzzle to party.
+
 ## October 23, 2026 — 1.1.2, MapTap, Strands Sports
 
 - New game: MapTap. Five taps on a globe, up to 1,000 points, and the first resident of a new Geography category.
