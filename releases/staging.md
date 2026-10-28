@@ -6,6 +6,13 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## October 28, 2026 — Bracket City + share tile
+
+- Share a Bracket City result; it should score in points out of 100, hard-mode decimals included, and read "pts" wherever it lands.
+- Or enter Bracket City by hand; the dialog opens at 75, which is flattering. Its stats page should sprout a histogram and a trend line.
+- On iPhone, share any puzzle result; a PuzzleParty tile starring Quip should sit in the share sheet's top row. Use it and the Home tip about sharing should stop nagging. Sign out and the tile leaves too.
+- Assorted housekeeping; if you can see it, it's a bug.
+
 ## October 23, 2026 — MapTap, Strands Sports
 
 - Share a MapTap result; a 948 should show as 948 pts and rank by score. A negative antipode day counts as zero, as it should.
