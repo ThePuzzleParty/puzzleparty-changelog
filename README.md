@@ -6,13 +6,11 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**October 23, 2026 — MapTap, Strands Sports**
+**October 28, 2026 — Bracket City + share tile**
 
-- Share a MapTap result; a 948 should show as 948 pts and rank by score. A negative antipode day counts as zero, as it should.
-- Log MapTap by hand: the picker opens at 800 and steps by one. DNF scores nothing and says Failed.
-- MapTap lives in the new Geography category. Geography had been waiting a while.
-- Share a Strands: Sports Edition result; it lands as its own game, not regular Strands.
-- Hosts: Party Settings now asks how much your Party Animal talks. Quiet, Normal or Chatty; it saves the moment you pick.
+- Share a Bracket City result; it should score in points out of 100, hard-mode decimals included, and read "pts" wherever it lands.
+- Or enter Bracket City by hand; the dialog opens at 75, which is flattering. Its stats page should sprout a histogram and a trend line.
+- On iPhone, share any puzzle result; a PuzzleParty tile starring Quip should sit in the share sheet's top row. Use it and the Home tip about sharing should stop nagging. Sign out and the tile leaves too.
 - Assorted housekeeping; if you can see it, it's a bug.
 
 [All staging releases](releases/staging.md)
