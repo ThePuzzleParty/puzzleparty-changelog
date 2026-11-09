@@ -6,6 +6,16 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## November 9, 2026 — Clues By Sam ranking, manual entry config
+
+- Hosts: Party Settings has a Clues By Sam ranking card. Switch to Accuracy First; it should name the puzzle the change starts with, and standings should show the note even while locked.
+- Start a fresh party; the empty feed now has a composer, so someone gets to speak first.
+- Hosts can change Late Submissions in Party Settings, no new party required.
+- Log a manual result (time, score, DNF); the rules now come from the server and should feel exactly the same.
+- Max out text size on a locked scoreboard; the checklist should wrap instead of exiting stage right.
+- Other people's free profiles no longer pitch you Plus.
+- Assorted housekeeping; if you can see it, it's a bug.
+
 ## October 28, 2026 — Bracket City + share tile
 
 - Share a Bracket City result; it should score in points out of 100, hard-mode decimals included, and read "pts" wherever it lands.
