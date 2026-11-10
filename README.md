@@ -6,14 +6,11 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**November 9, 2026 — Clues By Sam ranking, manual entry config**
+**November 10, 2026 — Game rules, web-first guidance**
 
-- Hosts: Party Settings has a Clues By Sam ranking card. Switch to Accuracy First; it should name the puzzle the change starts with, and standings should show the note even while locked.
-- Start a fresh party; the empty feed now has a composer, so someone gets to speak first.
-- Hosts can change Late Submissions in Party Settings, no new party required.
-- Log a manual result (time, score, DNF); the rules now come from the server and should feel exactly the same.
-- Max out text size on a locked scoreboard; the checklist should wrap instead of exiting stage right.
-- Other people's free profiles no longer pitch you Plus.
+- Hosts: open Party Details on a party that plays Clues By Sam. The ranking choice now sits in a Game rules card below Games instead of two gears deep in Settings. Members get a read-only view.
+- Recently added games should wear a NEW pill on Party Details and in Manage games. It was always there; now it is visible.
+- Settings > Linked computers now recommends the web client first and keeps Quick Paste as the backup. Help has a new "PuzzleParty on the web" row.
 - Assorted housekeeping; if you can see it, it's a bug.
 
 [All staging releases](releases/staging.md)
