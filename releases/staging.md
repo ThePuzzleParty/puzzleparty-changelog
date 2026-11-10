@@ -6,6 +6,13 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## November 10, 2026 — Game rules, web-first guidance
+
+- Hosts: open Party Details on a party that plays Clues By Sam. The ranking choice now sits in a Game rules card below Games instead of two gears deep in Settings. Members get a read-only view.
+- Recently added games should wear a NEW pill on Party Details and in Manage games. It was always there; now it is visible.
+- Settings > Linked computers now recommends the web client first and keeps Quick Paste as the backup. Help has a new "PuzzleParty on the web" row.
+- Assorted housekeeping; if you can see it, it's a bug.
+
 ## November 9, 2026 — Clues By Sam ranking, manual entry config
 
 - Hosts: Party Settings has a Clues By Sam ranking card. Switch to Accuracy First; it should name the puzzle the change starts with, and standings should show the note even while locked.
