@@ -6,6 +6,14 @@ What's new in each production release, newest first. Entries are added automatic
 
 ---
 
+## November 10, 2026 — 1.1.4, Clues By Sam ranking
+
+- Hosts can now choose how Clues By Sam ranks the day: Speed First or Accuracy First. Find it in the new Game rules card on Party Details.
+- A brand-new party can finally send its first message instead of staring at an empty feed.
+- Late Submissions now shows up in Party Settings, for hosts who change their minds after setup.
+- NEW badges on recently added games now actually appear.
+- On a computer? Linked computers now points you to the web app first.
+
 ## October 28, 2026 — 1.1.3, Bracket City + share tile
 
 - New game: Bracket City. Paste your result or log it by hand; it scores in points out of 100.
