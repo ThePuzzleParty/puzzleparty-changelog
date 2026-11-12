@@ -6,6 +6,12 @@ What's new in each production release, newest first. Entries are added automatic
 
 ---
 
+## November 12, 2026 — Clues By Sam, head-to-head
+
+- Clues By Sam manual entry now asks how many mistakes you made, and results show time, mistakes and hints. Honesty encouraged, not enforced.
+- Head-to-head now lays out wins, losses, draws and each player's average time or guesses, so the trash talk can cite sources.
+- The Enter manually button no longer wanders off after an update.
+
 ## November 10, 2026 — 1.1.4, Clues By Sam ranking
 
 - Hosts can now choose how Clues By Sam ranks the day: Speed First or Accuracy First. Find it in the new Game rules card on Party Details.
