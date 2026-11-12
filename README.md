@@ -6,12 +6,11 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Staging Release (TestFlight)
 
-**November 10, 2026 — Game rules, web-first guidance**
+**November 12, 2026 — Clues By Sam, head-to-head**
 
-- Hosts: open Party Details on a party that plays Clues By Sam. The ranking choice now sits in a Game rules card below Games instead of two gears deep in Settings. Members get a read-only view.
-- Recently added games should wear a NEW pill on Party Details and in Manage games. It was always there; now it is visible.
-- Settings > Linked computers now recommends the web client first and keeps Quick Paste as the backup. Help has a new "PuzzleParty on the web" row.
-- Assorted housekeeping; if you can see it, it's a bug.
+- Enter a Clues By Sam result by hand; there is now a Mistakes field beside the time, and the result line should show time, mistakes and hints, ranked in that order.
+- Open a head-to-head with a friend: wins, losses and draws up top, then shared days and each player's average time or guesses. Games without a sensible average show shared days alone.
+- Install over an older build; the Enter manually button should be on lineup rows straight away, no trip to Settings required.
 
 [All staging releases](releases/staging.md)
 
