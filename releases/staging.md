@@ -6,6 +6,15 @@ What to test in each TestFlight staging build, newest first. Entries are added a
 
 ---
 
+## November 19, 2026 — party seasons, Sumbreak
+
+- Open Party History from the new icon on Party Details. Hosts can start, rename, move or remove seasons, and the boards gain a This Season tab.
+- The Records card tops Party History: seasons, weeks and months won, with Show all once a list passes three.
+- As host, have someone join a few days in; a card should offer to start the scoreboard fresh. Not now should mean not now.
+- Share a LinkedIn Sumbreak result; it should score like Wend's long-lost cousin.
+- Wend, Patches, Zip, Tango and Queens shares should still parse, and no longer mistake puzzle 10 for puzzle 1.
+- Assorted housekeeping; if you can see it, it's a bug.
+
 ## November 12, 2026 — Clues By Sam, head-to-head
 
 - Enter a Clues By Sam result by hand; there is now a Mistakes field beside the time, and the result line should show time, mistakes and hints, ranked in that order.
