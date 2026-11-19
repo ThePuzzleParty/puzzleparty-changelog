@@ -19,11 +19,13 @@ Track what's new in PuzzleParty! This changelog is automatically generated from 
 
 ### Latest Production Release
 
-**November 12, 2026 — Clues By Sam, head-to-head**
+**November 19, 2026 — party seasons, Sumbreak**
 
-- Clues By Sam manual entry now asks how many mistakes you made, and results show time, mistakes and hints. Honesty encouraged, not enforced.
-- Head-to-head now lays out wins, losses, draws and each player's average time or guesses, so the trash talk can cite sources.
-- The Enter manually button no longer wanders off after an update.
+- Party seasons: hosts can start a fresh season, crown a champion and look back through Party History.
+- Records show who has won the most seasons, weeks and months. Bragging rights, now itemized.
+- When someone joins late, hosts can restart the scoreboard so everyone begins even.
+- Sumbreak from LinkedIn joins the lineup.
+- LinkedIn puzzle shares no longer mistake puzzle 10 for puzzle 1.
 
 [All production releases](releases/production.md)
 
@@ -37,5 +39,5 @@ Features and fixes in development (not yet released)
 
 Released features and fixes
 
-**499 total updates**
+**511 total updates**
 
